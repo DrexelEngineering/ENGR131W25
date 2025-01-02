@@ -1,5 +1,5 @@
 from pykubegrader.widgets.select_many import MultiSelect, SelectMany
-from pykubegrader.widgets.true_false import TFQuestion, TrueFalse_style
+from pykubegrader.widgets.true_false import TFQuestion, TFStyle
 from pykubegrader.widgets.multiple_choice import MCQuestion, MCQ
 import pykubegrader.initialize
 import panel as pn
@@ -21,7 +21,7 @@ class Question2(TFQuestion):
     def __init__(self):
         super().__init__(
             title=f'Python's built-in modules require installation using `pip`.',
-            style=TrueFalse_style,
+            style=TFStyle,
             question_number=2,
             keys=['q2-1-Python-built-in-modules'],
             descriptions=["Python's built-in modules require installation using `pip`."],

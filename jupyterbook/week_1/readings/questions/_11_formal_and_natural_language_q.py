@@ -1,5 +1,5 @@
 from pykubegrader.widgets.select_many import MultiSelect, SelectMany
-from pykubegrader.widgets.true_false import TFQuestion, TrueFalse_style
+from pykubegrader.widgets.true_false import TFQuestion, TFStyle
 from pykubegrader.widgets.multiple_choice import MCQuestion, MCQ
 import pykubegrader.initialize
 import panel as pn
@@ -32,7 +32,7 @@ class Question4(TFQuestion):
     def __init__(self):
         super().__init__(
             title=f'Formal languages like Python are designed to rely on context to resolve ambiguity.',
-            style=TrueFalse_style,
+            style=TFStyle,
             question_number=4,
             keys=['q4-1-Context-in-Formal-Languages', 'q4-2-parsing-in-natural-languages', 'q4-3-Programming-Syntax-Errors', 'q4-4-error-tolerance', 'q4-5-formal-languages-engineering'],
             descriptions=['Formal languages like Python are designed to rely on context to resolve ambiguity.', 'Parsing in natural languages happens subconsciously, while parsing in formal languages requires explicit effort.', 'A missing comma in a Python program can cause a syntax error.', 'Both natural and formal languages are equally tolerant of errors.', 'Formal languages like Python are valuable for solving engineering problems systematically.'],

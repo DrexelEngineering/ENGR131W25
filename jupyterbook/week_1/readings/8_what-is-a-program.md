@@ -18,7 +18,6 @@ At its core, a program is just **a sequence of instructions**. Whether you’re:
 
 It’s all about breaking big tasks into tiny, manageable steps that your computer can handle.
 
-
 ### Your Toolbox: Basic Instructions
 
 Here’s the thing: Computers aren’t geniuses (sorry, HAL 9000 fans). They just follow instructions really, really fast. But no matter how complex the program seems, it boils down to a handful of basic building blocks:
@@ -57,7 +56,6 @@ Why do something once when you can automate it 1,000 times? Loops let you repeat
 - Testing 1,000 beam designs to find the optimal one.
 - Simulating flow over a wing with different airspeeds.
 
-
 ### Programming: The Art of the Breakdown
 
 Here’s the secret sauce: **Every program you’ve ever used is just a bunch of these instructions, stitched together cleverly.**
@@ -71,7 +69,6 @@ Even the most complex simulations or control systems can be boiled down to:
 
 This is the **essence of programming**: Take something that seems impossible, break it into bite-sized chunks, and let your computer handle the heavy lifting.
 
-
 ### How Does This Translate for Engineers?
 
 - **Civil Engineers**: Simulate a bridge by modeling individual components (beams, bolts, forces).
@@ -79,11 +76,9 @@ This is the **essence of programming**: Take something that seems impossible, br
 - **Biomedical Engineers**: Write programs to process MRI data and identify abnormalities.
 - **Chemical Engineers**: Optimize reactor conditions by solving equations repeatedly with different parameters.
 
-
 ### Reality Check
 
 At first glance, programming might feel like wrestling with a machine that only understands baby steps. But as engineers, isn’t that our jam? Whether you’re designing a skyscraper or writing Python scripts, it’s all about breaking big ideas into manageable pieces.
-
 
 ### The Bigger Picture
 

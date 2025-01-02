@@ -1,5 +1,5 @@
 from pykubegrader.widgets.select_many import MultiSelect, SelectMany
-from pykubegrader.widgets.true_false import TFQuestion, TrueFalse_style
+from pykubegrader.widgets.true_false import TFQuestion, TFStyle
 from pykubegrader.widgets.multiple_choice import MCQuestion, MCQ
 import pykubegrader.initialize
 import panel as pn
@@ -21,7 +21,7 @@ class Question3(TFQuestion):
     def __init__(self):
         super().__init__(
             title=f'The `/` operator in Python is used for multiplication.',
-            style=TrueFalse_style,
+            style=TFStyle,
             question_number=3,
             keys=['q3-1-multiplication-operator', 'q3-2-Logical-Operators'],
             descriptions=['The `/` operator in Python is used for multiplication.', 'Logical operators in Python include `and`, `or`, and `not`.'],
