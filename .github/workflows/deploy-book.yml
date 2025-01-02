@@ -17,7 +17,7 @@ concurrency:
 
 jobs:
   deploy-book:
-    if: contains(github.event.head_commit.message, '#build-book')
+    if: contains(github.event.head_commit.message, '#build')
     runs-on: self-hosted
     permissions:
       pages: write
@@ -59,7 +59,7 @@ jobs:
 
       # Upload artifact and copy to SMB share
       - name: Upload and Deploy
-        if: contains(github.event.head_commit.message, '#build-book')
+        if: contains(github.event.head_commit.message, '#build')
         run: |
           SMBSHARE="/mnt/ENGR_Courses/ENGR131_W25"
           JBPATH="./jupyterbook"
