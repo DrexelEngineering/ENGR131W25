@@ -178,4 +178,6 @@ jupyterbook/_build/*
 **/_solutions/
 **/dist/
 
+**/quiz_/
+
 jupyterbook/week_1/homework/_solutions
