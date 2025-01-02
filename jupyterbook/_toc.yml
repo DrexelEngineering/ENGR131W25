@@ -48,22 +48,22 @@ parts:
               - file: week_1/readings/15_variables_q
               - file: week_1/readings/16_Operators
               - file: week_1/readings/17_operators_q
-          - file: week_1/lecture/index
-            title: "👩‍🏫 Lecture"
-            sections:
-              - file: week_1/lecture/1_Why_Coding_is_the_most_important_skill
-              - file: week_1/lecture/2_Engr131_Instructors
-              - file: week_1/lecture/3_Who_is_Prof_Agar
-              - file: week_1/lecture/4_agar_research
-              - file: week_1/lecture/5_Accessing_Course_Content
-              - file: week_1/lecture/6_Activity_1_Using_the_JupyterHub
-              - file: week_1/lecture/7_Introduction_to_python
-              - file: week_1/lecture/8_Programming_Basics
-              - file: week_1/lecture/9_Computing-Components
-              - file: week_1/lecture/10_Modules_and_packages
-              - file: week_1/lecture/11_Variables
-              - file: week_1/lecture/12_Operators
-              - file: week_1/lecture/13_Philly_Python_Challenge
-          - file: week_1/lab/1_building-a-computer
-          - file: week_1/quiz1/1_practice-quiz
-          - file: week_1/homework/1_Homework_1_Python_with_The_Office
+          # - file: week_1/lecture/index
+          #   title: "👩‍🏫 Lecture"
+          #   sections:
+          #     - file: week_1/lecture/1_Why_Coding_is_the_most_important_skill
+          #     - file: week_1/lecture/2_Engr131_Instructors
+          #     - file: week_1/lecture/3_Who_is_Prof_Agar
+          #     - file: week_1/lecture/4_agar_research
+          #     - file: week_1/lecture/5_Accessing_Course_Content
+          #     - file: week_1/lecture/6_Activity_1_Using_the_JupyterHub
+          #     - file: week_1/lecture/7_Introduction_to_python
+          #     - file: week_1/lecture/8_Programming_Basics
+          #     - file: week_1/lecture/9_Computing-Components
+          #     - file: week_1/lecture/10_Modules_and_packages
+          #     - file: week_1/lecture/11_Variables
+          #     - file: week_1/lecture/12_Operators
+          #     - file: week_1/lecture/13_Philly_Python_Challenge
+          # - file: week_1/lab/1_building-a-computer
+          # - file: week_1/quiz1/1_practice-quiz
+          # - file: week_1/homework/1_Homework_1_Python_with_The_Office
