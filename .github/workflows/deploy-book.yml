@@ -23,25 +23,26 @@ jobs:
       pages: write
       id-token: write
     steps:
-      - name: Verify Commit Author
-        run: |
-          REQUIRED_AUTHOR_NAME="jagar2"
-
-          # Fetch the commit author's name
-          LAST_COMMIT_AUTHOR_NAME=$(git log -1 --pretty=format:'%an')
-
-          # Check if the commit author matches the required user
-          if [[ "$LAST_COMMIT_AUTHOR_NAME" != "$REQUIRED_AUTHOR_NAME" ]]; then
-            echo "❌ Commit is not from the required user: $REQUIRED_AUTHOR_NAME"
-            exit 1
-          fi
-
-          echo "✅ Commit is from the required user: $REQUIRED_AUTHOR_NAME"
-
       - name: Checkout
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
+
+      # Step 2: Get the latest commit author
+      - name: Get commit author
+        id: commit_author
+        run: |
+          AUTHOR=$(git log -1 --pretty=format:'%ae')
+          echo "Commit author: $AUTHOR"
+          echo "author=$AUTHOR" >> $GITHUB_ENV
+
+      # Step 3: Check if the author matches
+      - name: Check commit author
+        run: |
+          if [[ "$GITHUB_ENV" != "jagar2@example.com" ]]; then
+            echo "This commit was not made by jagar2. Exiting."
+            exit 1
+          fi
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v4
