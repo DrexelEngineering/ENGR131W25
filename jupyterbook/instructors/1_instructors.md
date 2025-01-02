@@ -77,19 +77,19 @@ td, th {
     <td>
         <div class="instructor-card">
             <img src="https://courses.coe.drexel.edu/ENGR/ENGR131_W25/_static/instructors/empty.jpg" alt="Empty">
-            <a href="#">No Instructor</a>
+            <a href="#"></a>
         </div>
     </td>
     <td>
         <div class="instructor-card">
-            <img src="https://courses.coe.drexel.edu/ENGR/ENGR131_W25/_static/instructors/empty.jpg" alt="Ali Alamdari">
+            <img src="https://courses.coe.drexel.edu/ENGR/ENGR131_W25/_static/instructors/Ali.png" alt="Ali Alamdari">
             <a href="mailto:ag4328@drexel.edu">Ali Alamdari</a>
         </div>
     </td>
     <td>
         <div class="instructor-card">
             <img src="https://courses.coe.drexel.edu/ENGR/ENGR131_W25/_static/instructors/empty.jpg" alt="Empty">
-            <a href="#">No Instructor</a>
+            <a href="#"></a>
         </div>
     </td>
 </tr>
