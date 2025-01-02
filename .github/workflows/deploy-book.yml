@@ -23,6 +23,21 @@ jobs:
       pages: write
       id-token: write
     steps:
+      - name: Verify Commit Author
+        run: |
+          REQUIRED_AUTHOR_NAME="jagar2"
+
+          # Fetch the commit author's name
+          LAST_COMMIT_AUTHOR_NAME=$(git log -1 --pretty=format:'%an')
+
+          # Check if the commit author matches the required user
+          if [[ "$LAST_COMMIT_AUTHOR_NAME" != "$REQUIRED_AUTHOR_NAME" ]]; then
+            echo "❌ Commit is not from the required user: $REQUIRED_AUTHOR_NAME"
+            exit 1
+          fi
+
+          echo "✅ Commit is from the required user: $REQUIRED_AUTHOR_NAME"
+
       - name: Checkout
         uses: actions/checkout@v3
         with:
