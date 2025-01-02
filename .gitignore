@@ -6,11 +6,14 @@ __pycache__/
 # C extensions
 *.so
 
+testing/
+
 # Distribution / packaging
 .Python
-build/
+_build/
 develop-eggs/
-dist/
+# dist/
+>>>>>>> upstream/main
 downloads/
 eggs/
 .eggs/
@@ -169,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+jupyterbook/_build/*
+/testing
+
+**/_solutions/
+**/dist/
+
+jupyterbook/week_1/homework/_solutions
