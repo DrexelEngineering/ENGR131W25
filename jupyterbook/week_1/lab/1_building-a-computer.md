@@ -177,7 +177,7 @@ Non-Volatile Memory Express (NVMe) is a protocol for accessing high-speed storag
 
 Solid State Drive (SSD) is a storage device that uses flash memory to store data. SSDs are faster and more reliable than traditional hard drives, and can achieve speeds up to 6 Gb/s.
 
-```{image} ./assets/figures/SSD.JPG
+```{image} ./assets/figures/SSD_image.JPG
 :alt: ssd
 :class: mb-1
 :height: 400px

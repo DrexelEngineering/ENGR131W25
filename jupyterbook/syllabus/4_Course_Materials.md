@@ -4,7 +4,7 @@
 
 The textbook for the course is provided as a JupyterBook, which is available at the following link:
 
-[ENGR 131: Introduction to Programming for Engineers](https://courses.coe.drexel.edu/ENGR/ENGR131)
+[ENGR 131: Introduction to Programming for Engineers](https://courses.coe.drexel.edu/ENGR/ENGR131_W25)
 
 ## Optional References:
 

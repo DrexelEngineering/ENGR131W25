@@ -28,7 +28,7 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: "https://github.com/M3-Learning-Courses/Fall_2024_MEM679_Data-Analysis-and-Machine-Learning-for-Science-and-Manufacturing" # Online location of your book
+  url: "https://github.com/DrexelEngineering/ENGR131_W25" # Online location of your book
   path_to_book: jupyterbook # Optional path to your book, relative to the repository root
   branch: main # Which branch of the repository should be used when creating links (optional)
 
@@ -50,4 +50,5 @@ launch_buttons:
 
 sphinx:
   config:
-    html_extra_path: ['instructors/assets/figures', 'week_1/lecture/assets/figures']
+    html_extra_path:
+      ["instructors/assets/figures", "week_1/lecture/assets/figures"]
