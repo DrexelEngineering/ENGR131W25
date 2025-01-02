@@ -28,19 +28,19 @@ jobs:
         with:
           token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
 
-      # Step 2: Get the latest commit author
-      - name: Get commit author
-        id: commit_author
+      # Step 2: Get the GitHub username from the commit metadata
+      - name: Get GitHub username
+        id: commit_user
         run: |
-          AUTHOR=$(git log -1 --pretty=format:'%ae')
-          echo "Commit author: $AUTHOR"
-          echo "author=$AUTHOR" >> $GITHUB_ENV
+          AUTHOR_USERNAME=$(jq -r '.head_commit.author.username' < "$GITHUB_EVENT_PATH")
+          echo "GitHub Username: $AUTHOR_USERNAME"
+          echo "author_username=$AUTHOR_USERNAME" >> $GITHUB_ENV
 
-      # Step 3: Check if the author matches
+      # Step 3: Check if the username matches the target user
       - name: Check commit author
         run: |
-          if [[ "$GITHUB_ENV" != "jca92@drexel.edu" ]]; then
-            echo "This commit was not made by jca92@drexel.edu, author was $GITHUB_ENV. Exiting"
+          if [[ "$author_username" != "jagar2" ]]; then
+            echo "This commit was not made by jagar2. Exiting. $author_username"
             exit 1
           fi
 
