@@ -39,8 +39,8 @@ jobs:
       # Step 3: Check if the author matches
       - name: Check commit author
         run: |
-          if [[ "$GITHUB_ENV" != "jagar2@example.com" ]]; then
-            echo "This commit was not made by jagar2. Exiting."
+          if [[ "$GITHUB_ENV" != "jca92@drexel.edu" ]]; then
+            echo "This commit was not made by jca92@drexel.edu. Exiting."
             exit 1
           fi
 
