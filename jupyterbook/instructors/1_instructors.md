@@ -68,28 +68,8 @@ td, th {
     </td>
     <td>
         <div class="instructor-card">
-            <img src="https://courses.coe.drexel.edu/ENGR/ENGR131_W25/_static/instructors/empty.jpg" alt="Peihan Li">
-            <a href="mailto:pl525@drexel.edu">Peihan (Carl) Li (He/Him)</a>
-        </div>
-    </td>
-</tr>
-<tr>
-    <td>
-        <div class="instructor-card">
-            <img src="https://courses.coe.drexel.edu/ENGR/ENGR131_W25/_static/instructors/empty.jpg" alt="Empty">
-            <a href="#"></a>
-        </div>
-    </td>
-    <td>
-        <div class="instructor-card">
             <img src="https://courses.coe.drexel.edu/ENGR/ENGR131_W25/_static/instructors/Ali.png" alt="Ali Alamdari">
             <a href="mailto:ag4328@drexel.edu">Ali Alamdari</a>
-        </div>
-    </td>
-    <td>
-        <div class="instructor-card">
-            <img src="https://courses.coe.drexel.edu/ENGR/ENGR131_W25/_static/instructors/empty.jpg" alt="Empty">
-            <a href="#"></a>
         </div>
     </td>
 </tr>
