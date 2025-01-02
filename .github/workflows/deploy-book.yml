@@ -40,7 +40,7 @@ jobs:
       - name: Check commit author
         run: |
           if [[ "$GITHUB_ENV" != "jca92@drexel.edu" ]]; then
-            echo "This commit was not made by jca92@drexel.edu, author was $GITHUB_ENV. Exiting."
+            echo "This commit was not made by jca92@drexel.edu, author was $GITHUB_ENV. Exiting"
             exit 1
           fi
 
