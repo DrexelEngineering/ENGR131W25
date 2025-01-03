@@ -18,8 +18,6 @@ chapters:
   - file: week_1/readings/12_modules
   - file: week_1/readings/13_module_q
   - file: week_1/readings/14_variables
-  - file: week_1/readings/15_variables-questions
-  - file: week_1/readings/16_Activity_Waterboy_Problem
-  - file: week_1/readings/17_Operators
-  - file: week_1/readings/18_operators_questions
-  - file: week_1/readings/19_operators-question
+  - file: week_1/readings/15_variables_q
+  - file: week_1/readings/16_Operators
+  - file: week_1/readings/17_operators_q
