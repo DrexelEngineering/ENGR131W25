@@ -45,7 +45,7 @@ html:
 
 # Adds colab button to book
 launch_buttons:
-  jupyterhub_url: https://engr-131-jhub.eastus.cloudapp.azure.com/
+  jupyterhub_url: https://engr-131-jhub.eastus.cloudapp.azure.com/lab
   colab: true
   # thebe: true
 
