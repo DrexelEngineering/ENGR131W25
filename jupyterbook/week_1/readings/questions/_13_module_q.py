@@ -9,7 +9,7 @@ pn.extension()
 class Question1(MCQuestion):
     def __init__(self):
         super().__init__(
-            title=f'What is a Python module?',
+            title=f"What is a Python module?",
             style=MCQ,
             question_number=1,
             keys=['q1-1-What-is-a-Python-Module'],

@@ -7,7 +7,7 @@ pn.extension()
 class Question1(MCQuestion):
     def __init__(self):
         super().__init__(
-            title=f'What is a key difference between high-level and low-level programming languages?',
+            title=f"What is a key difference between high-level and low-level programming languages?",
             style=MCQ,
             question_number=1,
             keys=['q1-1-High-Level-v-Low-Level', 'q1-2-Python-Advantages', 'q1-3-Python-Interpreter'],

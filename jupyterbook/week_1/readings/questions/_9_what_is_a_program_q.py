@@ -8,7 +8,7 @@ pn.extension()
 class Question1(MCQuestion):
     def __init__(self):
         super().__init__(
-            title=f'What is a program?',
+            title=f"What is a program?",
             style=MCQ,
             question_number=1,
             keys=['q1-1-What-is-a-Program', 'q1-2-Program-Input', 'q1-3-Purpose-of-Loops', 'q1-4-Art-of-the-Breakdown'],

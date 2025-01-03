@@ -9,7 +9,7 @@ pn.extension()
 class Question1(MCQuestion):
     def __init__(self):
         super().__init__(
-            title=f'What is a primary difference between natural and formal languages?',
+            title=f"What is a primary difference between natural and formal languages?",
             style=MCQ,
             question_number=1,
             keys=['q1-1-Natural-v-Formal Languages', 'q1-2-Examples-of-Languages', 'q1-3-Tokens-in-Formal-Languages', 'q1-4-Python-Print-Function'],
@@ -20,7 +20,7 @@ class Question1(MCQuestion):
 class Question2(MCQuestion):
     def __init__(self):
         super().__init__(
-            title=f'Syntax in programming refers to the ______ of a program.',
+            title=f"Syntax in programming refers to the ______ of a program.",
             style=MCQ,
             question_number=2,
             keys=['q2-1-Programming-Syntax', 'q2-2-Parsing-in-Programming'],

@@ -9,7 +9,7 @@ pn.extension()
 class Question1(MCQuestion):
     def __init__(self):
         super().__init__(
-            title=f'Why are descriptive variable names recommended?',
+            title=f"Why are descriptive variable names recommended?",
             style=MCQ,
             question_number=1,
             keys=['q1-1-Descriptive-Variable-Names', 'q1-2-Converting-Variable-Types'],

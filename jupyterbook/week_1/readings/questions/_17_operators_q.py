@@ -9,7 +9,7 @@ pn.extension()
 class Question1(MCQuestion):
     def __init__(self):
         super().__init__(
-            title=f'What is the primary purpose of Python operators?',
+            title=f"What is the primary purpose of Python operators?",
             style=MCQ,
             question_number=1,
             keys=['q1-1-Python-Operators', 'q1-2-Addition-Operator'],
