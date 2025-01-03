@@ -19,6 +19,10 @@ You have the possibility of earning a total of 110% in this course if you comple
 We will drop one assignment grade (lowest) from each category (pre-class reading, class session, homework, quizzes, and lab completion) to account for unexpected events. Due to scheduling constraints, we have minimal capacity to accommodate missed classes, labs, or quizzes and will not be able to provide make-up opportunities for these assignments. We have included enough flexibility in the grading scheme to account for these missed assignments. If you miss a significant number of assignments for approved personal, medical, family, or religious reasons, please contact your first-year advisor and Prof. Agar to discuss alternative arrangements.
 ```
 
+```{note}
+The practice quiz, midterm, and final will be graded providing up to 10% extra credit to their respective assignment.
+```
+
 ```{tip}
 The best way to succeed in this course is to keep up with the readings, attend all classes, and complete all assignments on time. If you encounter challenges, seek help early. We are here to help you succeed. If you show up and participate, the class is designed so that everyone can get an A.
 ```
