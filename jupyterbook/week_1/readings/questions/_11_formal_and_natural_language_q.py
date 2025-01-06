@@ -31,7 +31,7 @@ class Question2(MCQuestion):
 class Question4(TFQuestion):
     def __init__(self):
         super().__init__(
-            title=f'Formal languages like Python are designed to rely on context to resolve ambiguity.',
+            title=f"Formal languages like Python are designed to rely on context to resolve ambiguity.",
             style=TFStyle,
             question_number=4,
             keys=['q4-1-Context-in-Formal-Languages', 'q4-2-parsing-in-natural-languages', 'q4-3-Programming-Syntax-Errors', 'q4-4-error-tolerance', 'q4-5-formal-languages-engineering'],
@@ -41,7 +41,7 @@ class Question4(TFQuestion):
 class Question3(SelectMany):
     def __init__(self):
         super().__init__(
-            title=f'Which of the following are features of formal languages?',
+            title=f"Which of the following are features of formal languages?",
             style=MultiSelect,
             question_number=3,
             keys=['q3-1-Features-of-Formal-Languages'],

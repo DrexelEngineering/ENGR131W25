@@ -20,7 +20,7 @@ class Question1(MCQuestion):
 class Question3(TFQuestion):
     def __init__(self):
         super().__init__(
-            title=f'Constants in Python are enforced by the interpreter to never change their values.',
+            title=f"Constants in Python are enforced by the interpreter to never change their values.",
             style=TFStyle,
             question_number=3,
             keys=['q3-1-Constants-tf'],
@@ -30,7 +30,7 @@ class Question3(TFQuestion):
 class Question3(SelectMany):
     def __init__(self):
         super().__init__(
-            title=f'Which of these rules are correct for naming variables in Python?',
+            title=f"Which of these rules are correct for naming variables in Python?",
             style=MultiSelect,
             question_number=3,
             keys=['q3-1-Rules-for-Naming-Variables', 'q3-2-Multi-Variable-Assignment'],

@@ -20,17 +20,17 @@ class Question1(MCQuestion):
 class Question2(TFQuestion):
     def __init__(self):
         super().__init__(
-            title=f'Python's built-in modules require installation using `pip`.',
+            title=f"Python's built-in modules require installation using `pip`",
             style=TFStyle,
             question_number=2,
             keys=['q2-1-Python-built-in-modules'],
-            descriptions=["Python's built-in modules require installation using `pip`."],
+            descriptions=["Python's built-in modules require installation using `pip`"],
             points=[1.0],
         )
 class Question3(SelectMany):
     def __init__(self):
         super().__init__(
-            title=f'Which of the following are examples of Python's built-in modules?',
+            title=f"Which of the following are examples of Python's built-in modules?",
             style=MultiSelect,
             question_number=3,
             keys=['q3-1-Examples-of-Python-Built-in-Modules', 'q3-2-Statements-about-Python-Modules'],

@@ -20,7 +20,7 @@ class Question1(MCQuestion):
 class Question3(TFQuestion):
     def __init__(self):
         super().__init__(
-            title=f'The `/` operator in Python is used for multiplication.',
+            title=f"The `/` operator in Python is used for multiplication.",
             style=TFStyle,
             question_number=3,
             keys=['q3-1-multiplication-operator', 'q3-2-Logical-Operators'],
@@ -30,7 +30,7 @@ class Question3(TFQuestion):
 class Question2(SelectMany):
     def __init__(self):
         super().__init__(
-            title=f'Select all categories of Python operators:',
+            title=f"Select all categories of Python operators:",
             style=MultiSelect,
             question_number=2,
             keys=['q2-1-Categories-of-Python-Operators', 'q2-2-Arithmetic-Operators'],
