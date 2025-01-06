@@ -19,20 +19,6 @@ Get a quick understanding of LockDown Browser by watching this short video:
 You **cannot** access tests with a standard web browser. If you try, you'll see an error message telling you that the test requires LockDown Browser. Just switch to LockDown Browser and navigate back to your exam to continue.
 ```
 
-## 📋 **Guidelines for Online Exams**
-
-Follow these **guidelines** to ensure a smooth testing experience:
-
-### 🏫 Designated Testing Location
-- If you're testing at a designated location (e.g., a testing center), follow those specific instructions.
-
-### 📍 General Tips
-- Select a **quiet location** where you won't be interrupted.
-- Know how much **time is available** for the test and ensure you have enough time to complete it.
-- **Turn off all mobile devices**, phones, etc., and keep them out of reach.
-- Clear your workspace of **external materials** like books, papers, other computers, or devices.
-- Stay at your **desk or workstation** for the entire duration of the test.
-
 ### 🔒 LockDown Browser Features
 - **Prevents access** to other websites or applications.  
 - You **cannot exit** the test until all questions are completed and submitted.
@@ -47,7 +33,7 @@ If you encounter any problems with LockDown Browser, here are some **resources**
    - If your exam requires a webcam, run the **Webcam Check** too.
 
 2. **Institution Help Desk** 💼  
-   - [Insert your institution's help desk contact information here].  
+   - [COE help desk](mailto:coe.helpdesk@drexel.edu)  
    - Some help desks may ask you to run the **System & Network Check** and **Webcam Check** before contacting them.  
    - If applicable, forward the results of these checks when opening a support ticket.
 
