@@ -50,7 +50,36 @@ if your submission is received, you will see a message like this:
 
 ![](assets/figures/response_submitted.png)
 
+### True False Questions
 
+There will be several true/false questions, select the best answer. You must run the code block to display the question, and submit the question similar to the multiple choice questions.
 
+### Select Many Questions
+
+There will be several select many questions. For these questions you must select all the answers that apply. You must run the code block to display the question, and submit the question similar to the multiple choice questions. You will get credit only if you select all the correct answers.
+
+### Free Response Coding Questions
+
+There will be several free response coding questions. There will be detailed instructions for each question. Your code will replace code that has `...`. You will need to run the block of code that you write, and then submit the question by running the grader block of code which looks like this:
+
+```python
+grader.check("question")
+``` 
+
+This will check your answers and provide feedback.
+
+## 📝 Submission
+
+To submit your assignment and get credit you must run the submit assignment block of code. This will look like this:
+
+```python
+from pykubegrader.submit.submit_assignment import submit_assignment
+
+submit_assignment("week1-readings", "<notebook>")
+```
+
+When you run this block of code your assignment will be submitted and you will receive a message like this containing your grade:
+
+![](assets/figures/submitting-assignment.png)
 
 
