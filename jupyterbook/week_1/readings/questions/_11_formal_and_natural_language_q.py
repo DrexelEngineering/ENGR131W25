@@ -9,18 +9,18 @@ pn.extension()
 class Question1(MCQuestion):
     def __init__(self):
         super().__init__(
-            title=f"What is a primary difference between natural and formal languages?",
+            title=f"Question1: Select the Best Answer",
             style=MCQ,
             question_number=1,
             keys=['q1-1-Natural-v-Formal Languages', 'q1-2-Examples-of-Languages', 'q1-3-Tokens-in-Formal-Languages', 'q1-4-Python-Print-Function'],
             options=[['Natural languages are concise, while formal languages are verbose.', 'Formal languages are designed to be unambiguous, while natural languages rely on context.', 'Formal languages evolve naturally over time.', 'Natural languages have strict syntax rules like formal languages.'], ['Klingon', 'English', 'Python', 'Emoji'], ['Pieces of information passed between computers.', 'The building blocks of a program, such as words, numbers, and symbols.', 'Synonyms for syntax rules.', 'The process of understanding the structure of code.'], ['Displays the literal text `"The other shoe fell."` on the screen.', 'Displays a figurative message about something falling.', 'Stores the text as a variable.', 'Executes an error because of ambiguity.']],
-            descriptions=['What is a primary difference between natural and formal languages?', 'Which of the following is an example of a formal language?', 'What are tokens in a formal language?', 'In Python, what does the following line of code do? `print("The other shoe fell.")`'],
+            descriptions=['What is a primary difference between natural and formal languages?', 'Which of the following is an example of a formal language?', 'What are tokens in a formal language?', 'In Python, what does the following line of code do? print("The other shoe fell.")'],
             points=[2.0, 2.0, 2.0, 2.0],
         )
 class Question2(MCQuestion):
     def __init__(self):
         super().__init__(
-            title=f"Syntax in programming refers to the ______ of a program.",
+            title=f"Question2: Fill in the Blank with the Best Answer",
             style=MCQ,
             question_number=2,
             keys=['q2-1-Programming-Syntax', 'q2-2-Parsing-in-Programming'],
@@ -31,7 +31,7 @@ class Question2(MCQuestion):
 class Question4(TFQuestion):
     def __init__(self):
         super().__init__(
-            title=f"Formal languages like Python are designed to rely on context to resolve ambiguity.",
+            title=f"Question4: Fill in the Blank with the Best Answer",
             style=TFStyle,
             question_number=4,
             keys=['q4-1-Context-in-Formal-Languages', 'q4-2-parsing-in-natural-languages', 'q4-3-Programming-Syntax-Errors', 'q4-4-error-tolerance', 'q4-5-formal-languages-engineering'],
@@ -41,7 +41,7 @@ class Question4(TFQuestion):
 class Question3(SelectMany):
     def __init__(self):
         super().__init__(
-            title=f"Which of the following are features of formal languages?",
+            title=f"Question3: Select All That Apply",
             style=MultiSelect,
             question_number=3,
             keys=['q3-1-Features-of-Formal-Languages'],

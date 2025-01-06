@@ -22,7 +22,7 @@ At Drexel University, programming transcends disciplines, offering transformativ
 - **Bioprocess Engineering**: Use machine learning to optimize fermentation processes or cell culture conditions.
 - **Drug Discovery**: Write computational scripts for molecular docking and analyzing protein-ligand interactions.
 
-## 3. Civil, Architectural, and Environmental Engineering
+## 3. Civil and Architectural Engineering
 
 ![](./assets/figures/eng3.jpg)
 
@@ -31,8 +31,6 @@ At Drexel University, programming transcends disciplines, offering transformativ
 - **Water Treatment Models**: Develop software for simulating contaminant removal in water treatment plants.
 
 ## 4. Computer and Electrical Engineering
-
-
 
 - **Embedded Systems**: Program microcontrollers for robotics, IoT devices, and wearables.
 - **Signal Processing**: Use Python to analyze and filter complex signals in communication systems.
@@ -48,15 +46,13 @@ At Drexel University, programming transcends disciplines, offering transformativ
 
 ## 6. Materials Science and Engineering
 
-![](./assets/figures/eng6.jpg)
+![](./assets/figures/materials-lab.webp)
 
 - **Materials Discovery**: Use machine learning to identify promising materials for energy storage, semiconductors, or biomaterials.
 - **Microscopy Image Analysis**: Automate the analysis of electron microscopy data to identify material defects or structures.
 - **Computational Materials Science**: Simulate molecular dynamics to predict material properties.
 
 ## 7. Environmental Engineering
-
-
 
 - **Climate Modeling**: Write scripts to analyze climate data and predict long-term environmental trends.
 - **Wastewater Treatment**: Develop algorithms to optimize chemical dosing in treatment plants.
