@@ -14,7 +14,7 @@ class Question1(MCQuestion):
             question_number=1,
             keys=['q1-1-Natural-v-Formal Languages', 'q1-2-Examples-of-Languages', 'q1-3-Tokens-in-Formal-Languages', 'q1-4-Python-Print-Function'],
             options=[['Natural languages are concise, while formal languages are verbose.', 'Formal languages are designed to be unambiguous, while natural languages rely on context.', 'Formal languages evolve naturally over time.', 'Natural languages have strict syntax rules like formal languages.'], ['Klingon', 'English', 'Python', 'Emoji'], ['Pieces of information passed between computers.', 'The building blocks of a program, such as words, numbers, and symbols.', 'Synonyms for syntax rules.', 'The process of understanding the structure of code.'], ['Displays the literal text `"The other shoe fell."` on the screen.', 'Displays a figurative message about something falling.', 'Stores the text as a variable.', 'Executes an error because of ambiguity.']],
-            descriptions=['What is a primary difference between natural and formal languages?', 'Which of the following is an example of a formal language?', 'What are tokens in a formal language?', 'In Python, what does the following line of code do?'],
+            descriptions=['What is a primary difference between natural and formal languages?', 'Which of the following is an example of a formal language?', 'What are tokens in a formal language?', 'In Python, what does the following line of code do? `print("The other shoe fell.")`'],
             points=[2.0, 2.0, 2.0, 2.0],
         )
 class Question2(MCQuestion):
