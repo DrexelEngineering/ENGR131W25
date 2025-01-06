@@ -366,7 +366,7 @@ PSUs are one of the most failure-prone components in a computer. If your compute
 
 **3. Connect the following power cables:**
 
-    * **24-pin ATX** to the motherboard. This is the main power connector.
+  * **24-pin ATX** to the motherboard. This is the main power connector.
 
 ```{image} ./assets/figures/24-install-1.jpeg
 :alt: 24-pin ATX cable
@@ -382,7 +382,7 @@ PSUs are one of the most failure-prone components in a computer. If your compute
 :align: center
 ```
 
-    * CPU power to the motherboard.
+* CPU power to the motherboard.
 
 Most modern motherboards require an 8-pin CPU power connector. Some high-end motherboards may require both a 4-pin and an 8-pin connector, while others may only need a 4-pin connector. In some cases, all power may be supplied through the 24-pin connector. Look for a connector labeled **CPU** or **EPS**, usually located near the CPU socket.
 
@@ -518,7 +518,7 @@ Many modern computers have integrated graphics and do not require a separate GPU
 
 locate the PCIe x16 slot on the motherboard. This is the slot that is used for the GPU. It is usually the topmost slot on the motherboard. The slot will have a latch that you will need to release to open the slot.
 
-```{image} ./assets/figures/GPU-install-1.JPG
+```{image} ./assets/figures/pci-slot.jpg
 :alt: installing GPU
 :class: mb-1
 :height: 400px
