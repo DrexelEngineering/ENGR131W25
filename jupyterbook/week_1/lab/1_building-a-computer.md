@@ -518,7 +518,7 @@ Many modern computers have integrated graphics and do not require a separate GPU
 
 locate the PCIe x16 slot on the motherboard. This is the slot that is used for the GPU. It is usually the topmost slot on the motherboard. The slot will have a latch that you will need to release to open the slot.
 
-```{image} ./assets/figures/pci-slot.jpg
+```{image} ./assets/figures/pci-slots.JPG
 :alt: installing GPU
 :class: mb-1
 :height: 400px
