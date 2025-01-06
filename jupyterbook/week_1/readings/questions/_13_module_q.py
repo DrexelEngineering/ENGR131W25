@@ -15,7 +15,7 @@ class Question1(MCQuestion):
             keys=['q1-1-What-is-a-Python-Module'],
             options=[['A built-in function in Python.', 'A package that must always be installed separately.', 'A Python file containing reusable code.', 'A set of Python standards for formatting code.']],
             descriptions=['What is a Python module?'],
-            points=[2.0],
+            points=[1.0],
         )
 class Question2(TFQuestion):
     def __init__(self):
@@ -36,6 +36,6 @@ class Question3(SelectMany):
             keys=['q3-1-Examples-of-Python-Built-in-Modules', 'q3-2-Statements-about-Python-Modules'],
             descriptions=["Which of the following are examples of Python's built-in modules?", 'Which of the following statements about Python modules is true?'],
             options=[['`os`', '`sys`', '`requests`', '`math`'], ['Modules promote code reuse.', 'Modules can only contain functions.', 'You can import a specific function from a module.', 'Python packages are a collection of modules.']],
-            points=[4.0, 4.0],
+            points=[2.0, 2.0],
             grade=['parts'],
         )

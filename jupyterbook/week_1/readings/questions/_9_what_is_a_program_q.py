@@ -14,7 +14,7 @@ class Question1(MCQuestion):
             keys=['q1-1-What-is-a-Program', 'q1-2-Program-Input', 'q1-3-Purpose-of-Loops', 'q1-4-Art-of-the-Breakdown'],
             options=[['A series of random operations performed by a computer.', 'A sequence of instructions for a computer to execute.', 'A list of files stored on a computer.', 'A method for designing bridges and reactors.'], ['Typing on a keyboard.', 'Analyzing heat maps from sensors.', 'Printing results to the screen.', 'Retrieving data from a smartwatch.'], ['To prevent errors in a program.', 'To repeat actions with slight variations.', 'To make the program visually appealing.', 'To store large amounts of data.'], ['Writing as many lines of code as possible.', 'Solving the biggest part of a problem first.', 'Breaking down large problems into smaller, manageable tasks.', 'Running multiple programs at the same time.']],
             descriptions=['What is a program?', 'Which of the following is NOT an example of program input?', 'What is the primary purpose of loops in programming?', 'Which of these best describes the “art of the breakdown” in programming?'],
-            points=[2.0, 2.0, 2.0, 2.0],
+            points=[1.0, 1.0, 1.0, 1.0],
         )
 class Question2(TFQuestion):
     def __init__(self):

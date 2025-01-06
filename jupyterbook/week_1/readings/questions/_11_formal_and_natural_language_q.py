@@ -26,7 +26,7 @@ class Question2(MCQuestion):
             keys=['q2-1-Programming-Syntax', 'q2-2-Parsing-in-Programming'],
             options=[['Speed', 'Structure', 'Ambiguity', 'Parsing'], ['Guessing the intent of ambiguous statements.', 'Running a program to find syntax errors.', 'Breaking a sentence or statement into tokens and understanding its structure.', 'Removing redundant tokens from code.']],
             descriptions=['Syntax in programming refers to the ______ of a program.', 'Parsing is the process of ______.'],
-            points=[2.0, 2.0],
+            points=[1.0, 1.0],
         )
 class Question4(TFQuestion):
     def __init__(self):
@@ -47,6 +47,6 @@ class Question3(SelectMany):
             keys=['q3-1-Features-of-Formal-Languages'],
             descriptions=['Which of the following are features of formal languages?'],
             options=[['Ambiguity', 'Conciseness', 'Strict syntax rules', 'Reliance on redundancy']],
-            points=[4.0],
+            points=[2.0],
             grade=['parts'],
         )

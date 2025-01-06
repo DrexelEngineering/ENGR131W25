@@ -15,7 +15,7 @@ class Question1(MCQuestion):
             keys=['q1-1-Descriptive-Variable-Names', 'q1-2-Converting-Variable-Types'],
             options=[['To make the program run faster', 'To make the code easier to understand and maintain', 'To avoid syntax errors in Python', 'To ensure compatibility with older Python versions'], ['Assigning a float to a variable that previously held a string', 'Using the `float()` function to convert a string to a numeric type', 'Using a new variable name for a different type of value', 'Concatenating a number with a string']],
             descriptions=['Why are descriptive variable names recommended?', 'What is an example of converting variable types in Python, as shown in the notebook?'],
-            points=[2.0, 2.0],
+            points=[1.0, 1.0],
         )
 class Question3(TFQuestion):
     def __init__(self):
@@ -36,6 +36,6 @@ class Question3(SelectMany):
             keys=['q3-1-Rules-for-Naming-Variables', 'q3-2-Multi-Variable-Assignment'],
             descriptions=['Which of these rules are correct for naming variables in Python?', 'Which of the following illustrate multi-variable assignment in Python?'],
             options=[['Variables must start with a letter or an underscore (`_`).', 'Variables can contain spaces.', 'Variable names are case-sensitive.', 'Variables can include numbers but cannot start with them.'], ['`a, b, c = 1, 2, 3`', '`a = b = c = 0`', '`a = 1; b = 2; c = 3`', '`a, b = 1 2`']],
-            points=[4.0, 4.0],
+            points=[2.0, 2.0],
             grade=['parts'],
         )
