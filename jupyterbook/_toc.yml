@@ -63,7 +63,8 @@ parts:
               - file: week_1/lecture/10_Modules_and_packages
               - file: week_1/lecture/11_Variables
               - file: week_1/lecture/12_Operators
-              - file: week_1/lecture/13_Philly_Python_Challenges
+              - file: week_1/lecture/13_Philly_Python_Challenge
           - file: week_1/lab/1_building-a-computer
           - file: week_1/quiz1/1_practice-quiz
-          - file: week_1/homework/1_Homework_1_Python_with_The_Office 
+          - file: week_1/homework/1_Homework_1_Python_with_The_Office
+      - file: required_software/respondus-lockdown
