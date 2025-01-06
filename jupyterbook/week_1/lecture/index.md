@@ -1,4 +1,4 @@
-# 
+# Lecture
 1. {doc}`📝 Why Computer Programming is an Essential Skill <./1_Why_Coding_is_the_most_important_skill>`
 2. {doc}`👨🏽👩🏾Engineering 131 Winter 2024 Instructors <./2_Engr131_Instructors>`
 3. {doc}`📝 Who is Professor Agar <./3_Who_is_Prof_Agar>`
