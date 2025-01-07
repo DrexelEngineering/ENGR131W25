@@ -37,7 +37,6 @@ parts:
               - file: week_1/readings/4_programming_mindset
               - file: week_1/readings/5_programming_design_and_engineering
               - file: week_1/readings/6_what_is_Python
-              - file: week_1/readings/7_what_is_python_q
               - file: week_1/readings/8_what-is-a-program
               - file: week_1/readings/9_what_is_a_program_q
               - file: week_1/readings/10_formal-and-natural-language
