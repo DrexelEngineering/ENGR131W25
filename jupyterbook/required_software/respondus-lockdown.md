@@ -4,7 +4,8 @@ This course **requires** the use of **LockDown Browser** for online exams. Don't
 
 ## 🎬 **Watch This Video**
 Get a quick understanding of LockDown Browser by watching this short video:  
-[🔗 LockDown Browser Overview Video](https://www.respondus.com/products/lockdown-browser/student-movie.shtml)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WcHuYw488nM?si=kdjVkp-M4l31iFK_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 📥 **Download Instructions**
 1. Download and install **LockDown Browser** from this link:  
