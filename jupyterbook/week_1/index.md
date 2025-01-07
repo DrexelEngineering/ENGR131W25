@@ -4,11 +4,11 @@
 
 [Reading](readings/index)
 
-[Lecture](lectures/index)
+[Lecture](lecture/index)
 
 [Quiz](quiz1/1_practice-quiz)
 
-[lab](labs/1_building-a-computer)
+[lab](lab/1_building-a-computer)
 
 [Homework](homework/1_Homework_1_Python_with_The_Office)
 
