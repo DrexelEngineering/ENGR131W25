@@ -4,7 +4,7 @@ The following outlines the course coverage by term week:
 
 | Week    | Concepts                                    | Reading Exercises (due at 1:59 pm) | Homework (due the following Tuesday at 1:59 pm) | Lab (due the following Tuesday at 1:59 pm) |
 | ------- | ------------------------------------------- | ---------------------------------- | ----------------------------------------------- | ------------------------------------------ |
-| 1-1/6   | Syllabus, Variables, Operators, Modules     | Due Wed (1/8)                      | Hello World in Python (1/14)                    | Workflow - Building a Computer (1/14)      |
+| 1-1/6   | Syllabus, Variables, Operators, Modules     | Due Thursday (1/9)                      | Hello World in Python (1/14)                    | Workflow - Building a Computer (1/14)      |
 | 2-1/13  | Strings, Data Types, precision                         | Due Tue (1/14)                     | Strings, datatypes, precision  (1/21)                | Scrabble (1/21)                            |
 | 3-1/20  | Errors, Debugging, Numpy, Sympy, Image Analysis          | Due Tue (1/21)                     | Errors, Debugging (1/28)                                    | Image Processing (1/28)                    |
 | 4-1/27  | Functions & Recursion                       | Due Tue (1/28)                     | Functions (2/4)                                 | Training a Neural Network (2/4)            |
