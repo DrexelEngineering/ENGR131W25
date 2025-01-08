@@ -26,6 +26,19 @@ listed in chronological order of due date
 - [Homework 1 (1/14) 1:59 pm](../jupyterbook/week_1/homework/1_Homework_1_Python_with_The_Office.ipynb)
     1. [🏠 🧠 Homework 1 - Python with "The Office"](../jupyterbook/week_1/homework/1_Homework_1_Python_with_The_Office.ipynb)
 
+## Office Hours
+
+Monday: 5:00 pm - 6:00 pm (Ritu Ghosh - Zoom)
+
+Tuesday: 12:00 pm - 1:00 pm (David Khan - Innovation Studio)
+
+Thursday: 8:00 am - 10:00 am (Jonathan Ehring- Zoom)
+
+Thursday: 10:00 am - 12:00 pm (Jonathan Ehring - Innovation Studio)
+
+Thursday: 2:00 pm - 3:00 pm (David Khan - Zoom)
+
+Friday: 11:00 am - 12:00 pm (Ritu Ghosh - Innovation Studio)
 
 ## Welcome to **ENGR131: Introduction to Programming for Engineers** at Drexel University! 🎉🐉
 
