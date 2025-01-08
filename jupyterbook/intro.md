@@ -38,6 +38,8 @@ Thursday: 8:00 am - 10:00 am (Jonathan Ehring- Zoom)
 
 Thursday: 10:00 am - 12:00 pm (Jonathan Ehring - Innovation Studio)
 
+Thursday: 11:00 am - 12:00 pm (Prof. Agar - Curtis 261C)
+
 Thursday: 2:00 pm - 3:00 pm (David Khan - Zoom)
 
 Friday: 11:00 am - 12:00 pm (Ritu Ghosh - Innovation Studio)
