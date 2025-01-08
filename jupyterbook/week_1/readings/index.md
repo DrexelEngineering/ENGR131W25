@@ -16,4 +16,4 @@
 14. {doc}`📖 📓 Python Variables <./14_variables>`
 15. {doc}`❓ Variables <./15_variables_q>`
 16. {doc}`📖 🏈 Python Operators <./16_Operators>`
-17. {doc}`Python Operators <./17_operators_q>`
+17. {doc}`❓Python Operators <./17_operators_q>`

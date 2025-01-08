@@ -1,4 +1,5 @@
-# Session
+# Syllabus
+
 1. {doc}`👋 Introduction to Programming for Engineers <./1_Intro>`
 2. {doc}`📨 Contact Process <./2_Contact_Process>`
 3. {doc}`📖 Student Learning Information <./3_Student_Learning_Information>`
