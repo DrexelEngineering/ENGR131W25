@@ -6,13 +6,14 @@
 | Class Session - Questions | 2    | **15%** | Tuesdays         | Identify and address misconceptions; appreciate applications |
 | Homework            | 2.5          | **15%** | 1:59 pm Tuesdays | Develop individual mastery of skills        |
 | Quizzes             | 2            | **15%** | Lab time slot    | Lab attendance; demonstrate individual mastery of skills |
-| Lab Completion      | 1            | **15%** | 11:59 am Tuesdays| Apply skills to creative problems           |
+| Lab Completion      | 2            | **15%** | 11:59 am Tuesdays| Apply skills to creative problems           |
+| Lab Attendance      | 0            | **5%** | in class - after 90 minutes | Active engagement in learning           |
 | Midterm             | n/a          | **15%** | TBD              | Demonstrate mastery; connect diverse skills |
 | Final               | n/a          | **20%** | TBD              | Demonstrate mastery of concepts and coding  |
 
 
 ```{note}
-You have the possibility of earning a total of 110% in this course if you complete all assignments with excellence.
+You have the possibility of earning a total of 115% in this course if you complete all assignments with excellence.
 ```
 
 ```{note}
