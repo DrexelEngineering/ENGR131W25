@@ -28,6 +28,8 @@ listed in chronological order of due date
 
 ## Office Hours
 
+Monday: 9:00 am - 11:00 am (Dan Tran - Zoom)
+
 Monday: 5:00 pm - 6:00 pm (Ritu Ghosh - Zoom)
 
 Tuesday: 12:00 pm - 1:00 pm (David Khan - Innovation Studio)
