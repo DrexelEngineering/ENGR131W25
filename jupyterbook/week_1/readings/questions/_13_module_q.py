@@ -9,7 +9,7 @@ pn.extension()
 class Question1(MCQuestion):
     def __init__(self):
         super().__init__(
-            title=f"Question1: Select the Best Answer",
+            title=f"Select the Best Answer",
             style=MCQ,
             question_number=1,
             keys=['q1-1-What-is-a-Python-Module'],
@@ -20,7 +20,7 @@ class Question1(MCQuestion):
 class Question2(TFQuestion):
     def __init__(self):
         super().__init__(
-            title=f"Question2: Select if the statement is True or False",
+            title=f"Select if the statement is True or False",
             style=TFStyle,
             question_number=2,
             keys=['q2-1-Python-built-in-modules'],
@@ -30,7 +30,7 @@ class Question2(TFQuestion):
 class Question3(SelectMany):
     def __init__(self):
         super().__init__(
-            title=f"Question3: Select All That Apply",
+            title=f"Select All That Apply",
             style=MultiSelect,
             question_number=3,
             keys=['q3-1-Examples-of-Python-Built-in-Modules', 'q3-2-Statements-about-Python-Modules'],

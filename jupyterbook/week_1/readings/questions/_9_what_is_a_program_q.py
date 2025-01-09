@@ -8,7 +8,7 @@ pn.extension()
 class Question1(MCQuestion):
     def __init__(self):
         super().__init__(
-            title=f"Question1: Select the Best Answer",
+            title=f"Select the Best Answer",
             style=MCQ,
             question_number=1,
             keys=['q1-1-What-is-a-Program', 'q1-2-Program-Input', 'q1-3-Purpose-of-Loops', 'q1-4-Art-of-the-Breakdown'],
@@ -19,7 +19,7 @@ class Question1(MCQuestion):
 class Question2(TFQuestion):
     def __init__(self):
         super().__init__(
-            title=f"Question2: Select if the statement is True or False",
+            title=f"Select if the statement is True or False",
             style=TFStyle,
             question_number=2,
             keys=['q2-1-Program-recipe', 'q2-2-Output-keyboard', 'q2-3-Conditional-Execution', 'q2-4-Repetition', 'q2-5-Relevance of Programming'],

@@ -7,7 +7,7 @@ pn.extension()
 class Question1(MCQuestion):
     def __init__(self):
         super().__init__(
-            title=f"Question1: Select the Best Answer",
+            title=f"Select the Best Answer",
             style=MCQ,
             question_number=1,
             keys=['q1-1-High-Level-v-Low-Level', 'q1-2-Python-Advantages', 'q1-3-Python-Interpreter'],

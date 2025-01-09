@@ -9,7 +9,7 @@ pn.extension()
 class Question1(MCQuestion):
     def __init__(self):
         super().__init__(
-            title=f"Question1: Select the Best Answer",
+            title=f"Select the Best Answer",
             style=MCQ,
             question_number=1,
             keys=['q1-1-Natural-v-Formal Languages', 'q1-2-Examples-of-Languages', 'q1-3-Tokens-in-Formal-Languages', 'q1-4-Python-Print-Function'],
@@ -20,7 +20,7 @@ class Question1(MCQuestion):
 class Question2(MCQuestion):
     def __init__(self):
         super().__init__(
-            title=f"Question2: Fill in the Blank with the Best Answer",
+            title=f"Fill in the Blank with the Best Answer",
             style=MCQ,
             question_number=2,
             keys=['q2-1-Programming-Syntax', 'q2-2-Parsing-in-Programming'],
@@ -31,7 +31,7 @@ class Question2(MCQuestion):
 class Question4(TFQuestion):
     def __init__(self):
         super().__init__(
-            title=f"Question4: Fill in the Blank with the Best Answer",
+            title=f"Fill in the Blank with the Best Answer",
             style=TFStyle,
             question_number=4,
             keys=['q4-1-Context-in-Formal-Languages', 'q4-2-parsing-in-natural-languages', 'q4-3-Programming-Syntax-Errors', 'q4-4-error-tolerance', 'q4-5-formal-languages-engineering'],
@@ -41,7 +41,7 @@ class Question4(TFQuestion):
 class Question3(SelectMany):
     def __init__(self):
         super().__init__(
-            title=f"Question3: Select All That Apply",
+            title=f"Select All That Apply",
             style=MultiSelect,
             question_number=3,
             keys=['q3-1-Features-of-Formal-Languages'],
