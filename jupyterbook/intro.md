@@ -26,6 +26,15 @@ listed in chronological order of due date
 - [Homework 1 (1/14) 1:59 pm](../jupyterbook/week_1/homework/1_Homework_1_Python_with_The_Office.ipynb)
     1. [🏠 🧠 Homework 1 - Python with "The Office"](../jupyterbook/week_1/homework/1_Homework_1_Python_with_The_Office.ipynb)
 
+- [Reading 2 (1/14) 1:59 pm](../jupyterbook/week_2/readings/index.md)
+    1. {doc}`❓Pootie Tang's Wild String Manipulation Adventures <../jupyterbook/week_2/readings/2_strings_q.ipynb>`
+    2. {doc}`❓ Python Datatypes: The Periodic Table Edition 🧪 <../jupyterbook/week_2/readings/4_datatypes_q>`
+    3. {doc}`❓ Commenting <../jupyterbook/week_2/readings/6_comments_q>`
+    4. {doc}`❓ 🔬  Materials Design: Lists and Tuples <../jupyterbook/week_2/readings/8_lists_and_tuples_q>`
+    5. {doc}`❓ Dictionaries and Search Engine Optimization (SEO) 👀 <../jupyterbook/week_2/readings/10_dictionaries_q>`
+    6. {doc}`❓ Precision in Python: NIST Laboratory Adventures 🧪 <../jupyterbook/week_2/readings/12_precision_q>`
+
+
 ## Office Hours
 
 Monday: 9:00 am - 11:00 am (Dan Tran - Zoom)

@@ -67,4 +67,41 @@ parts:
           - file: week_1/lab/2_week_1_attendance
           - file: week_1/quiz1/1_practice-quiz
           - file: week_1/homework/1_Homework_1_Python_with_The_Office
+      - file: week_2/index
+        title: "Week 2️⃣"
+        sections:
+          - file: week_2/readings/index
+            title: "📖 Readings"
+            sections:
+              - file: week_2/readings/1_strings
+              - file: week_2/readings/2_strings_q
+              - file: week_2/readings/3_datatypes
+              - file: week_2/readings/4_datatypes_q
+              - file: week_2/readings/5_comments
+              - file: week_2/readings/6_comments_q
+              - file: week_2/readings/7_lists_and_tuples
+              - file: week_2/readings/8_lists_and_tuples_q
+              - file: week_2/readings/9_dictionaries
+              - file: week_2/readings/10_dictionaries_q
+              - file: week_2/readings/11_precisions
+              - file: week_2/readings/12_precision_q
+              - file: week_2/readings/13_precision_and_energy
+              - file: week_2/readings/14_understanding_quantization
+          # - file: week_2/lecture/index
+          #   title: "👩‍🏫 Lecture"
+          #   sections:
+          #     - file: week_2/lecture/1_Drexel_String_Lecture
+          #     - file: week_2/lecture/2_Data_Types
+          #     - file: week_2/lecture/3_Python_Commenting_and_Docstrings
+          #     - file: week_2/lecture/4_skull_q
+          #     - file: week_2/lecture/5_Video_Game_History
+          #     - file: week_2/lecture/6_lists_and_collections
+          #     - file: week_2/lecture/7_Dictionaries
+          #     - file: week_2/lecture/8_Precision_Dynamic_Typing
+          #     - file: week_2/lecture/9_dictionaries_q
+          # - file: week_2/lab/1_lab_scrabble
+          # - file: week_2/lab/2_bonus_lab_scrabble
+          # - file: week_2/quiz2/1_practice_quiz_2
+          # - file: week_2/homework/1_homework_2
+
       - file: required_software/respondus-lockdown
