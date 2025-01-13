@@ -36,6 +36,8 @@ listed in chronological order of due date
 
 ## Office Hours
 
+[zoom link](https://drexel.zoom.us/my/engr131)
+
 Monday: 9:00 am - 11:00 am (Dan Tran - Zoom)
 
 Monday: 5:00 pm - 6:00 pm (Ritu Ghosh - Zoom)
