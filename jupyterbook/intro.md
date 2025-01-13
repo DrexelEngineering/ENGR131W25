@@ -8,15 +8,15 @@
 
 listed in chronological order of due date
 
-- [Reading Thursday (1/9)](../jupyterbook/week_1/readings/index.md)
+<!-- - [Reading Thursday (1/9)](../jupyterbook/week_1/readings/index.md)
     1. [❓What is Python](../jupyterbook/week_1/readings/7_what_is_python_q.ipynb)
     2. [❓What is a Program?](../jupyterbook/week_1/readings/9_what_is_a_program_q.ipynb)
     3. [❓Formal vs. Natural Languages](../jupyterbook/week_1/readings/11_formal_and_natural_language_q.ipynb)
     4. [❓What is a Python Module?](../jupyterbook//week_1/readings/13_module_q.ipynb)
     5. [❓Variables](../jupyterbook/week_1/readings/15_variables_q.ipynb)
-    6. [❓Python Operators](../jupyterbook/week_1/readings/17_operators_q.ipynb)
+    6. [❓Python Operators](../jupyterbook/week_1/readings/17_operators_q.ipynb) -->
 
-- [Practice Quiz (before lab - 1/10 - 2:59 pm)](../jupyterbook/week_1/quiz1/1_practice-quiz.ipynb)
+- [Practice Quiz (before lab - 1/14 - 1:59 pm)](../jupyterbook/week_1/quiz1/1_practice-quiz.ipynb)
     1. [❓Calculating Total Credits at Drexel! 🎓](../jupyterbook/week_1/quiz1/1_practice-quiz.ipynb)
 
 - [Lecture Activity (1/14)](../jupyterbook/week_1/lecture/index.md)
