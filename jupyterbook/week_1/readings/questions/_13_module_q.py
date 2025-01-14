@@ -24,7 +24,7 @@ class Question2(TFQuestion):
             style=TFStyle,
             question_number=2,
             keys=['q2-1-Python-built-in-modules'],
-            descriptions=["Python's built-in modules require installation using `pip`"],
+            descriptions=["Python's built-in modules require installation using `pip`."],
             points=[1.0],
         )
 class Question3(SelectMany):
