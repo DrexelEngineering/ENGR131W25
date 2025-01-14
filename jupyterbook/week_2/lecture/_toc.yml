@@ -1,0 +1,7 @@
+format: jb-book
+root: index
+chapters:
+- file: week_2/lecture/index
+  title: Lecture
+  sections:
+

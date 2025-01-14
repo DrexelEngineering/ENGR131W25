@@ -1,5 +1,4 @@
 # Readings
-
 1. {doc}`📖 Guide for Reading Materials <./1_guide_for_reading_materials>`
 2. {doc}`📖 🧑‍💻 How to Use JupyterLab <./2_Jupyterlab>`
 3. {doc}`📖 Making Sure You Get Credit <./3_making_sure_you_get_credit>`

@@ -16,7 +16,7 @@ listed in chronological order of due date
     5. [❓Variables](../jupyterbook/week_1/readings/15_variables_q.ipynb)
     6. [❓Python Operators](../jupyterbook/week_1/readings/17_operators_q.ipynb) -->
 
-- [Practice Quiz (before lab - 1/14 - 1:59 pm)](../jupyterbook/week_1/quiz1/1_practice-quiz.ipynb)
+<!-- - [Practice Quiz (before lab - 1/14 - 1:59 pm)](../jupyterbook/week_1/quiz1/1_practice-quiz.ipynb)
 
   1. [❓Calculating Total Credits at Drexel! 🎓](../jupyterbook/week_1/quiz1/1_practice-quiz.ipynb)
 
@@ -27,15 +27,25 @@ listed in chronological order of due date
 
 - [Homework 1 (1/14) 1:59 pm](../jupyterbook/week_1/homework/1_Homework_1_Python_with_The_Office.ipynb)
 
-  1. [🏠 🧠 Homework 1 - Python with "The Office"](../jupyterbook/week_1/homework/1_Homework_1_Python_with_The_Office.ipynb)
+  1. [🏠 🧠 Homework 1 - Python with "The Office"](../jupyterbook/week_1/homework/1_Homework_1_Python_with_The_Office.ipynb) -->
 
-- [Reading 2 (1/14) 1:59 pm](../jupyterbook/week_2/readings/index.md)
+<!-- - [Reading 2 (1/14) 1:59 pm](../jupyterbook/week_2/readings/index.md)
   1. [❓ Pootie Tang's Wild String Manipulation Adventures](../jupyterbook/week_2/readings/2_strings_q.ipynb)
   2. [❓ Python Datatypes: The Periodic Table Edition 🧪](../jupyterbook/week_2/readings/4_datatypes_q.ipynb)
   3. [❓ Commenting](../jupyterbook/week_2/readings/6_comments_q.ipynb)
   4. [❓ 🔬 Materials Design: Lists and Tuples](../jupyterbook/week_2/readings/8_lists_and_tuples_q.ipynb)
   5. [❓ Dictionaries and Search Engine Optimization (SEO) 👀](../jupyterbook/week_2/readings/10_dictionaries_q.ipynb)
-  6. [❓ Precision in Python: NIST Laboratory Adventures 🧪](../jupyterbook/week_2/readings/12_precision_q.ipynb)
+  6. [❓ Precision in Python: NIST Laboratory Adventures 🧪](../jupyterbook/week_2/readings/12_precision_q.ipynb) -->
+
+- [Practice Quiz (before lab - 1/17 - 1:59 pm)](../jupyterbook/week_2/practicequiz/1_practice_quiz_data_types_q.ipynb)
+    1. [❓ Python Basics: Data Structures and Types Quiz 🐍](../jupyterbook/week_2/practicequiz/1_practice_quiz_data_types_q.ipynb)
+
+- [Lab Scrabble (1/21) 1:59 pm](../jupyterbook/week_2/lab/1_lab_scrabble.ipynb)
+    1. [🧪 🎮 Lab 2: Scrabble Game Calculator](../jupyterbook/week_2/lab/1_lab_scrabble.ipynb)
+
+- [Homework 2 (1/21) 1:59 pm](../jupyterbook/week_2/homework/1_homework.ipynb)
+    1. [🏠 Python Programming: Explore the Nutshell Studies 🕵️‍♀️🔍](../jupyterbook/week_2/homework/1_homework.ipynb)
+    
 
 ## Office Hours
 

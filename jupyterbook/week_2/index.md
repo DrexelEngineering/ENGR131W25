@@ -2,11 +2,11 @@
 
 [Reading](readings/index)
 
-<!-- [Lecture](lecture/index)
+[Lecture](lecture/index)
 
-[Quiz](quiz1/1_practice-quiz)
+[practice quiz](practicequiz/1_practice_quiz_data_types_q.ipynb)
 
-[lab](lab/1_building-a-computer)
+[lab](lab/1_lab_scrabble.ipynb)
 
-[Homework](homework/1_Homework_1_Python_with_The_Office) -->
-
+[Homework](homework/1_homework.ipynb) 
+ 

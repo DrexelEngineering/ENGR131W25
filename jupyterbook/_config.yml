@@ -15,12 +15,15 @@ logo: ./_static/drexel-dragon-all_blue.png # A path to the book logo for light m
 execute:
   execute_notebooks: cache
   timeout: 600
+  only_build_toc_files: true
 #   execute_notebooks: force
 
 # Define the name of the latex output file for PDF builds
 latex:
   latex_documents:
     targetname: book.tex
+
+only_build_toc_files: true
 
 # Add a bibtex file so that we can create citations
 bibtex_bibfiles:
