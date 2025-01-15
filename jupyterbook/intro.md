@@ -34,19 +34,23 @@ listed in chronological order of due date
   6. [❓ Precision in Python: NIST Laboratory Adventures 🧪](../jupyterbook/week_2/readings/12_precision_q.ipynb) -->
 
 - [Practice Quiz (before lab - 1/17 - 1:59 pm)](../jupyterbook/week_2/practicequiz/1_practice_quiz_data_types_q.ipynb)
-    1. [❓ Python Basics: Data Structures and Types Quiz 🐍](../jupyterbook/week_2/practicequiz/1_practice_quiz_data_types_q.ipynb)
+
+  1. [❓ Python Basics: Data Structures and Types Quiz 🐍](../jupyterbook/week_2/practicequiz/1_practice_quiz_data_types_q.ipynb)
 
 - [Lab Scrabble (1/21) 1:59 pm](../jupyterbook/week_2/lab/1_lab_scrabble.ipynb)
-    1. [🧪 🎮 Lab 2: Scrabble Game Calculator](../jupyterbook/week_2/lab/1_lab_scrabble.ipynb)
+
+  1. [🧪 🎮 Lab 2: Scrabble Game Calculator](../jupyterbook/week_2/lab/1_lab_scrabble.ipynb)
 
 - [Homework 2 (1/21) 1:59 pm](../jupyterbook/week_2/homework/1_homework.ipynb)
-    1. [🏠 Python Programming: Explore the Nutshell Studies 🕵️‍♀️🔍](../jupyterbook/week_2/homework/1_homework.ipynb)
+
+  1. [🏠 Python Programming: Explore the Nutshell Studies 🕵️‍♀️🔍](../jupyterbook/week_2/homework/1_homework.ipynb)
 
 - [Reading 3 (1/21) 1:59 pm](../jupyterbook/week_3/readings/index.md)
-    1.[❓💥 Errors and Exceptions ](../jupyterbook/week_3/readings/2_errors_q.ipynb)
-    2.[❓🐍 Python Tools for Engineering 🛠️ ](../jupyterbook/week_3/readings/7_python_tools_q.ipynb)
-    3.[❓ 🌊 Lotl of NumPy 🧪🐾 ](../jupyterbook/week_3/readings/9_numpy_q.ipynb)
-    4.[❓ ❌ Eliminate or ✅ Evaluate: Surviving the Sympy 🦑 Challenge! ](../jupyterbook/week_3/readings/15_sympy_q.ipynb)
+
+  1.[❓💥 Errors and Exceptions ](../jupyterbook/week_3/readings/2_errors_q.ipynb)
+  2.[❓🐍 Python Tools for Engineering 🛠️ ](../jupyterbook/week_3/readings/7_python_tools_q.ipynb)
+  3.[❓ 🌊 Lotl of NumPy 🧪🐾 ](../jupyterbook/week_3/readings/9_numpy_q.ipynb)
+  4.[❓ ❌ Eliminate or ✅ Evaluate: Surviving the Sympy 🦑 Challenge! ](../jupyterbook/week_3/readings/15_sympy_q.ipynb)
 
 ## Office Hours
 
