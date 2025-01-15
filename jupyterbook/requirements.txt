@@ -9,3 +9,7 @@ scipy
 soundfile
 statsmodels
 opencv-python
+sklearn
+pandas
+scipy
+seaborn
