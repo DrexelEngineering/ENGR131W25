@@ -102,8 +102,8 @@ parts:
               - file: week_2/lecture/9_dictionaries_q
           - file: week_2/lab/1_lab_scrabble
           - file: week_2/lab/2_bonus_lab_scrabble
-          - file: week_2/lab/1_attendance
-          - file: week_2/practicequiz/1_practice_quiz_data_types_q.ipynb
+          - file: week_2/attendance/1_attendance
+          - file: week_2/practicequiz/1_practice_quiz_data_types_q
           - file: week_2/homework/1_homework_2
       - file: week_3/index
         title: "Week 3️⃣"
