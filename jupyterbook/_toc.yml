@@ -66,6 +66,7 @@ parts:
           - file: week_1/lab/1_building-a-computer
           - file: week_1/lab/2_week_1_attendance
           - file: week_1/quiz1/1_practice-quiz
+          - file: week_1/realquiz/1_quiz
           - file: week_1/homework/1_Homework_1_Python_with_The_Office
       - file: week_2/index
         title: "Week 2️⃣"
