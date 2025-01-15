@@ -105,4 +105,25 @@ parts:
           - file: week_2/lab/1_attendance
           - file: week_2/practicequiz/1_practice_quiz_data_types_q.ipynb
           - file: week_2/homework/1_homework_2
+      - file: week_3/index
+        title: "Week 3️⃣"
+        sections:
+          - file: week_3/readings/index
+            title: "📖 Readings"
+            sections:
+              - file: week_3/readings/1_errors
+              - file: week_3/readings/2_errors_q
+              - file: week_3/readings/3_debugging
+              - file: week_3/readings/4_debugger_in_jupyterlab
+              - file: week_3/readings/5_debugger_q
+              - file: week_3/readings/6_python_tools
+              - file: week_3/readings/7_python_tools_q
+              - file: week_3/readings/8_numpy
+              - file: week_3/readings/9_numpy_q
+              - file: week_3/readings/10_sympy
+              - file: week_3/readings/11_sympy_math
+              - file: week_3/readings/12_sympy_printing
+              - file: week_3/readings/13_sympy_calculus
+              - file: week_3/readings/14_sympy_solvers
+              - file: week_3/readings/15_sympy_q
       - file: required_software/respondus-lockdown
