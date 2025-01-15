@@ -3,7 +3,7 @@
 2. {doc}`❓💥 Errors and Exceptions <./2_errors_q>`
 3. {doc}`📖 Debugging: The Fine Art of Problem-Squashing 🐛🔍 <./3_debugging>`
 4. {doc}`📖 Debugger <./4_debugger_in_jupyterlab>`
-5. {doc}`Debugging-History <./5_debugger_q>`
+5. {doc}`❓🐞 Debugging Questions <./5_debugger_q>`
 6. {doc}`📖 🛠️ Python Engineer's Toolbox: Essential Tools for Mathematical and Computational Engineering <./6_python_tools>`
 7. {doc}`❓🐍 Python Tools for Engineering 🛠️ <./7_python_tools_q>`
 8. {doc}`📖 🌟 NumPy Guide 🌟 <./8_numpy>`
