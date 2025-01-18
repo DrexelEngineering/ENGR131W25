@@ -126,4 +126,5 @@ parts:
               - file: week_3/readings/13_sympy_calculus
               - file: week_3/readings/14_sympy_solvers
               - file: week_3/readings/15_sympy_q
+      - file: instructions/viewing_grades
       - file: required_software/respondus-lockdown
