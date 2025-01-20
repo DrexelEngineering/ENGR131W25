@@ -104,6 +104,7 @@ parts:
           - file: week_2/lab/2_bonus_lab_scrabble
           - file: week_2/attendance/2_week_1_attendance
           - file: week_2/practicequiz/1_practice_quiz_data_types_q
+          - file: week_2/realquiz/1_quiz_2_q
           - file: week_2/homework/1_homework
       - file: week_3/index
         title: "Week 3️⃣"
@@ -126,5 +127,21 @@ parts:
               - file: week_3/readings/13_sympy_calculus
               - file: week_3/readings/14_sympy_solvers
               - file: week_3/readings/15_sympy_q
+          - file: week_3/lecture/index
+            title: "👩‍🏫 Lecture"
+            sections:
+              - file: week_3/lecture/1_errors
+              - file: week_3/lecture/2_your-first-program
+              - file: week_3/lecture/3_debugging
+              - file: week_3/lecture/4_Guide_to_software-on-your-computer
+              - file: week_3/lecture/5_debugging
+              - file: week_3/lecture/6_numpy
+              - file: week_3/lecture/7_numpy_q
+              - file: week_3/lecture/8_sympy
+              - file: week_3/lecture/9_dodgeball_sympy_q
+          # - file: week_3/lab/1_lab_composite
+          # - file: week_3/homework/angry_bird
+          # - file: week_3/attendance/1_week_3_attendance
+          # - file: week_3/practicequiz/1_practicequiz_q
       - file: instructions/viewing_grades
       - file: required_software/respondus-lockdown
