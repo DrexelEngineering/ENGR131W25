@@ -139,9 +139,9 @@ parts:
               - file: week_3/lecture/7_numpy_q
               - file: week_3/lecture/8_sympy
               - file: week_3/lecture/9_dodgeball_sympy_q
-          # - file: week_3/lab/1_lab_composite
-          # - file: week_3/homework/angry_bird
-          # - file: week_3/attendance/1_week_3_attendance
-          # - file: week_3/practicequiz/1_practicequiz_q
+          - file: week_3/lab/1_lab_composite
+          - file: week_3/homework/angry_bird
+          - file: week_3/attendance/1_week_3_attendance
+          - file: week_3/practicequiz/1_practicequiz_q
       - file: instructions/viewing_grades
       - file: required_software/respondus-lockdown

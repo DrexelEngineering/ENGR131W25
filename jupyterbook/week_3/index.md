@@ -1,12 +1,12 @@
-# Week 2: Strings, Data Types, Precision
+# Week 3: Errors & Debugging, Engineering Toolbox
 
 [Reading](readings/index)
 
-<!-- [Lecture](lecture/index)
+[Lecture](lecture/index)
 
-[practice quiz](practicequiz/1_practice_quiz_data_types_q.ipynb)
+[practice quiz](practicequiz/1_practicequiz_q.ipynb)
 
-[lab](lab/1_lab_scrabble.ipynb)
+[lab](lab/1_lab_composite.ipynb)
 
-[Homework](homework/1_homework.ipynb)  -->
+[Homework](homework/angry_bird.ipynb)
 

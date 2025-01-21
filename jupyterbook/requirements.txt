@@ -13,3 +13,10 @@ scikit-learn
 pandas
 scipy
 seaborn
+seaborn
+
+jupyterlab-rise
+
+sympy
+
+pandas

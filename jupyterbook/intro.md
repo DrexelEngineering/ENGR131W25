@@ -1,8 +1,8 @@
 # Welcome to ENGR 131!
 
-## Announcements
+<!-- ## Announcements
 
-**Lab 1: Note all labs for week 1 will be held in the Innovation studio.**
+**Lab 1: Note all labs for week 1 will be held in the Innovation studio.** -->
 
 ## Assignments
 
@@ -12,14 +12,14 @@ listed in chronological order of due date
 
   1. [❓Calculating Total Credits at Drexel! 🎓](../jupyterbook/week_1/quiz1/1_practice-quiz.ipynb) -->
 
-[Quiz Week 1 (before lab - 1/21 - 1:59 pm)](../jupyterbook/week_1/realquiz/1_quiz.ipynb)
+<!-- [Quiz Week 1 (before lab - 1/21 - 1:59 pm)](../jupyterbook/week_1/realquiz/1_quiz.ipynb) -->
 
-- [Lecture Activity 1/21 - 1:59 pm](../jupyterbook/week_1/lecture/index.md)
+<!-- - [Lecture Activity 1/21 - 1:59 pm](../jupyterbook/week_1/lecture/index.md)
 
   1. [❓🚀 Activity: Hello, World! JupyterHub](../jupyterbook/week_1/lecture/6_Activity_1_Using_the_JupyterHub.ipynb)
   2. [❓🥨 Philly Pretzel Challenge!](../jupyterbook/week_1/lecture/13_Philly_Python_Challenge.ipynb)
   3. [❓🦴 Hytrl Skull Collection Problem](../jupyterbook/week_2/lecture/4_skull_q.ipynb)
-  4. [❓🩺 Chevalier Jackson Collection Problem](../jupyterbook/week_2/lecture/9_dictionaries_q.ipynb)
+  4. [❓🩺 Chevalier Jackson Collection Problem](../jupyterbook/week_2/lecture/9_dictionaries_q.ipynb) -->
 
 <!-- - [Homework 1 (1/14) 1:59 pm](../jupyterbook/week_1/homework/1_Homework_1_Python_with_The_Office.ipynb) -->
 
@@ -33,24 +33,39 @@ listed in chronological order of due date
   5. [❓ Dictionaries and Search Engine Optimization (SEO) 👀](../jupyterbook/week_2/readings/10_dictionaries_q.ipynb)
   6. [❓ Precision in Python: NIST Laboratory Adventures 🧪](../jupyterbook/week_2/readings/12_precision_q.ipynb) -->
 
-- [Practice Quiz (before lab - 1/17 - 1:59 pm)](../jupyterbook/week_2/practicequiz/1_practice_quiz_data_types_q.ipynb)
+<!-- - [Practice Quiz (before lab - 1/17 - 1:59 pm)](../jupyterbook/week_2/practicequiz/1_practice_quiz_data_types_q.ipynb)
 
-  1. [❓ Python Basics: Data Structures and Types Quiz 🐍](../jupyterbook/week_2/practicequiz/1_practice_quiz_data_types_q.ipynb)
+  1. [❓ Python Basics: Data Structures and Types Quiz 🐍](../jupyterbook/week_2/practicequiz/1_practice_quiz_data_types_q.ipynb) -->
 
-- [Lab Scrabble (1/21) 1:59 pm](../jupyterbook/week_2/lab/1_lab_scrabble.ipynb)
+<!-- - [Lab Scrabble (1/21) 1:59 pm](../jupyterbook/week_2/lab/1_lab_scrabble.ipynb)
 
-  1. [🧪 🎮 Lab 2: Scrabble Game Calculator](../jupyterbook/week_2/lab/1_lab_scrabble.ipynb)
+  1. [🧪 🎮 Lab 2: Scrabble Game Calculator](../jupyterbook/week_2/lab/1_lab_scrabble.ipynb) -->
 
-- [Homework 2 (1/21) 1:59 pm](../jupyterbook/week_2/homework/1_homework.ipynb)
+<!-- - [Homework 2 (1/21) 1:59 pm](../jupyterbook/week_2/homework/1_homework.ipynb)
 
-  1. [🏠 Python Programming: Explore the Nutshell Studies 🕵️‍♀️🔍](../jupyterbook/week_2/homework/1_homework.ipynb)
+  1. [🏠 Python Programming: Explore the Nutshell Studies 🕵️‍♀️🔍](../jupyterbook/week_2/homework/1_homework.ipynb) -->
 
 - [Reading 3 (1/21) 1:59 pm](../jupyterbook/week_3/readings/index.md)
 
   1.[❓💥 Errors and Exceptions ](../jupyterbook/week_3/readings/2_errors_q.ipynb)
+
   2.[❓🐍 Python Tools for Engineering 🛠️ ](../jupyterbook/week_3/readings/7_python_tools_q.ipynb)
-  3.[❓ 🌊 Lotl of NumPy 🧪🐾 ](../jupyterbook/week_3/readings/9_numpy_q.ipynb)
-  4.[❓ ❌ Eliminate or ✅ Evaluate: Surviving the Sympy 🦑 Challenge! ](../jupyterbook/week_3/readings/15_sympy_q.ipynb)
+
+  3.[❓🌊 Lotl of NumPy 🧪🐾 ](../jupyterbook/week_3/readings/9_numpy_q.ipynb)
+
+  4.[❓❌ Eliminate or ✅ Evaluate: Surviving the Sympy 🦑 Challenge!](../jupyterbook/week_3/readings/15_sympy_q.ipynb)
+
+- [❓🧪 Practice Quiz: Errors and Exceptions (before lab - 1/24 - 1:59 pm)](../jupyterbook/week_3/practicequiz/1_practicequiz_q.ipynb)
+
+  1. [❓🧪 Practice Quiz: Errors and Exceptions](../jupyterbook/week_3/practicequiz/1_practicequiz_q.ipynb)
+
+- [🧪 Lab Designing Composites with Optimal Mechanical Properties (1/28) 1:59 pm 🔩⚙️💪](../jupyterbook/week_3/lab/1_lab_composite.ipynb)
+
+  1. [🧪 Lab Designing Composites with Optimal Mechanical Properties 🔩⚙️💪](../jupyterbook/week_3/lab/1_lab_composite.ipynb)
+
+- [🏠 Homework The Flight of the Angry Bird 🚀🐦 (1/28) 1:59 pm](../jupyterbook/week_3/homework/angry_bird.ipynb)
+
+  1. [🏠 Homework The Flight of the Angry Bird 🚀🐦](../jupyterbook/week_3/homework/angry_bird.ipynb)
 
 ## Office Hours
 
