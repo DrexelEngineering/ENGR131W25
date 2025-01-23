@@ -158,6 +158,19 @@ parts:
               - file: week_4/readings/8_mortified_loops_q
               - file: week_4/readings/9_while_loops
               - file: week_4/readings/10_while_loops_50_dates_q
-          # - file: week_4/lab4/Lab_4_Battleship_q
+          # - file: week_4/lecture/index
+          #   title: "👩‍🏫 Lecture"
+          #   sections:
+          #     - file: week_4/lecture/1_booleans
+          #     - file: week_4/lecture/2_if_else
+          #     - file: week_4/lecture/3_if_else_q
+          #     - file: week_4/lecture/4_loops
+          #     - file: week_4/lecture/5_nested_loops
+          #     - file: week_4/lecture/6_IDEs_and_git
+          #     - file: week_4/lecture/7_continue_break
+          #     - file: week_4/lecture/8_while_loops
+          #     - file: week_4/lecture/9_loops_activity_q
+          # - file: week_4/lab4/Lab_4_Battleship
+          # - file: week_4/homework/homework_4
       - file: instructions/viewing_grades
       - file: required_software/respondus-lockdown
