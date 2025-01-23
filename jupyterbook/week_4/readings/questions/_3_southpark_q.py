@@ -34,7 +34,7 @@ class Question2(SelectMany):
             style=MultiSelect,
             question_number=2,
             keys=['q2-1-if-else-logical-operators', 'q2-2-southpark-if-else'],
-            descriptions=['Which of the following are logical operators in Python?', None],
+            descriptions=['Which of the following are logical operators in Python?', 'In which of these cases will the else block execute in the code below?\n```python\nkenny_alive = False\nif kenny_alive:\n    print("Kenny survived")\nelse:\n    print("Oh my god they killed Kenny")\n```'],
             options=[['`and`', '`or`', '`not`', '`nor`'], ['When `kenny_alive` is `True`', 'When `kenny_alive` is `False`', 'When the variable `kenny_alive` is undefined', 'Always, regardless of the value of `kenny_alive`']],
             points=[2.0, 2.0],
             grade=['parts'],
