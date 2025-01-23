@@ -143,9 +143,9 @@ parts:
           - file: week_3/attendance/1_week_3_attendance
           - file: week_3/practicequiz/1_practicequiz_q
       - file: week_4/index
-        title: "Week 3️⃣"
+        title: "Week 4️⃣"
         sections:
-          - file: week_3/readings/index
+          - file: week_4/readings/index
             title: "📖 Readings"
             sections:
               - file: week_4/readings/1_boolean
@@ -158,5 +158,17 @@ parts:
               - file: week_4/readings/8_mortified_loops_q
               - file: week_4/readings/9_while_loops
               - file: week_4/readings/10_while_loops_50_dates_q
+          - file: week_4/lecture/index
+            title: "👩‍🏫 Lecture"
+            sections:
+              - file: week_4/lecture/1_booleans
+              - file: week_4/lecture/2_if_else
+              - file: week_4/lecture/3_if_else_q
+              - file: week_4/lecture/4_loops
+              - file: week_4/lecture/5_nested_loops
+              - file: week_4/lecture/6_IDEs_and_git
+              - file: week_4/lecture/7_continue_break
+              - file: week_4/lecture/8_while_loops
+              - file: week_4/lecture/9_loops_activity_q
       - file: instructions/viewing_grades
       - file: required_software/respondus-lockdown
