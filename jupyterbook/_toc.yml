@@ -104,7 +104,6 @@ parts:
           - file: week_2/lab/2_bonus_lab_scrabble
           - file: week_2/attendance/2_week_1_attendance
           - file: week_2/practicequiz/1_practice_quiz_data_types_q
-          - file: week_2/realquiz/1_quiz_2_q
           - file: week_2/homework/1_homework
       - file: week_3/index
         title: "Week 3️⃣"
@@ -143,5 +142,22 @@ parts:
           - file: week_3/homework/angry_bird
           - file: week_3/attendance/1_week_3_attendance
           - file: week_3/practicequiz/1_practicequiz_q
+      - file: week_4/index
+        title: "Week 4️⃣"
+        sections:
+          - file: week_4/readings/index
+            title: "📖 Readings"
+            sections:
+              - file: week_4/readings/1_boolean
+              - file: week_4/readings/2_if_else
+              - file: week_4/readings/3_southpark_q
+              - file: week_4/readings/4_loops_introduction
+              - file: week_4/readings/5_for_loops
+              - file: week_4/readings/6_nested_loops
+              - file: week_4/readings/7_continue_break_else
+              - file: week_4/readings/8_mortified_loops_q
+              - file: week_4/readings/9_while_loops
+              - file: week_4/readings/10_while_loops_50_dates_q
+          # - file: week_4/lab4/Lab_4_Battleship_q
       - file: instructions/viewing_grades
       - file: required_software/respondus-lockdown
