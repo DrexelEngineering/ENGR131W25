@@ -1,0 +1,8 @@
+format: jb-book
+root: index
+chapters:
+- file: week_2/lab/index
+  title: Lab
+  sections:
+  - file: week_2/lab/1_lab_scrabble
+  - file: week_2/lab/2_bonus_lab_scrabble
