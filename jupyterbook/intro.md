@@ -4,7 +4,7 @@
 
 **Lab 1: Note all labs for week 1 will be held in the Innovation studio.** -->
 
-## Assignments
+## Assignments 
 
 listed in chronological order of due date
 
@@ -45,7 +45,7 @@ listed in chronological order of due date
 
   1. [🏠 Python Programming: Explore the Nutshell Studies 🕵️‍♀️🔍](../jupyterbook/week_2/homework/1_homework.ipynb) -->
 
-- [Reading 3 (1/21) 1:59 pm](../jupyterbook/week_3/readings/index.md)
+<!-- - [Reading 3 (1/21) 1:59 pm](../jupyterbook/week_3/readings/index.md)
 
   1.[❓💥 Errors and Exceptions ](../jupyterbook/week_3/readings/2_errors_q.ipynb)
 
@@ -65,7 +65,33 @@ listed in chronological order of due date
 
 - [🏠 Homework The Flight of the Angry Bird 🚀🐦 (1/28) 1:59 pm](../jupyterbook/week_3/homework/angry_bird.ipynb)
 
-  1. [🏠 Homework The Flight of the Angry Bird 🚀🐦](../jupyterbook/week_3/homework/angry_bird.ipynb)
+  1. [🏠 Homework The Flight of the Angry Bird 🚀🐦](../jupyterbook/week_3/homework/angry_bird.ipynb) -->
+
+[Reading 4 (1/28) 1:59 pm](../jupyterbook/week_4/readings/index.md)
+
+  1. [❓ 🏞️ South Park Adventures 🧢🌲](../jupyterbook/week_3/3_southpark_q.ipynb)
+
+  2. [❓ 📓 Mortified: High School Diaries 📔💔](../jupyterbook/week_3/8_mortified_loops_q.ipynb)
+  
+  3. [❓ 🌺 50 First Dates 🌴💞](../jupyterbook/week_3/10_while_loops_50_dates_q.ipynb)
+
+- [❓ Practice Quiz: Control Structures for Renewable Energy Applications (before lab - 2/04 - 1:59 pm)](../jupyterbook/week_4/practicequiz/1_practicequiz_q.ipynb)
+
+  1. [❓ Practice Quiz: Control Structures for Renewable Energy Applications ](../jupyterbook/week_4/practicequiz/1_practicequiz_q.ipynb)
+
+- [❓ Quiz: Control Structures for Engineering Applications (1/31 - 11:59pm)](../jupyterbook/week_4/quiz/1_quiz_q.ipynb)
+
+  1. [❓ Quiz: Control Structures for Engineering Applications ](../jupyterbook/week_4/quiz/1_quiz_q.ipynb)
+
+- [🎮 LAB 4 : BATTLESHIP 🎮 (2/04 - 1:59 pm)](../jupyterbook/week_4/lab4/Lab_4_Battleship.ipynb)
+
+  1. [🎮 LAB 4 : BATTLESHIP 🎮 ](../jupyterbook/week_4/lab4/Lab_4_Battleship.ipynb)
+
+- [🏠🧙‍♂️📜 Casting Spells and Conditional Loops: Homework That Taps Your Mana! (2/04 - 1:59pm)](../jupyterbook/week_4/homework/homework_4.ipynb)
+
+  1. [🏠🧙‍♂️📜 Casting Spells and Conditional Loops: Homework That Taps Your Mana!](../jupyterbook/week_4/homework/homework_4.ipynb)
+
+
 
 ## Office Hours
 

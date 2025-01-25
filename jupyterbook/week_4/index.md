@@ -2,7 +2,7 @@
 
 [Reading](readings/index)
 
-<!-- [Lecture](lecture/index) -->
+[Lecture](lecture/index)
 
 <!-- [practice quiz](practicequiz/1_practicequiz_q.ipynb)
 

@@ -159,5 +159,6 @@ parts:
               - file: week_4/readings/8_mortified_loops_q
               - file: week_4/readings/9_while_loops
               - file: week_4/readings/10_while_loops_50_dates_q
+          - file: week_4/lab4/Lab_4_Battleship
       - file: instructions/viewing_grades
       - file: required_software/respondus-lockdown

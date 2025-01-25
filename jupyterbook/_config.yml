@@ -58,3 +58,13 @@ sphinx:
   config:
     html_extra_path:
       ["instructors/assets/figures", "week_1/lecture/assets/figures"]
+    extensions:
+      - myst_nb    # Add this line
+
+parse:
+  myst_enable_extensions:
+    - colon_fence
+    - dollarmath   # Optional but recommended for math
+    - linkify      # Optional for automatic links
+
+only_build_toc_files: true
