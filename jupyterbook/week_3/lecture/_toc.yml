@@ -1,0 +1,15 @@
+format: jb-book
+root: index
+chapters:
+- file: week_3/lecture/index
+  title: Lecture
+  sections:
+  - file: week_3/lecture/1_errors
+  - file: week_3/lecture/2_your-first-program
+  - file: week_3/lecture/3_debugging
+  - file: week_3/lecture/4_Guide_to_software-on-your-computer
+  - file: week_3/lecture/5_debugging
+  - file: week_3/lecture/6_numpy
+  - file: week_3/lecture/7_numpy_q
+  - file: week_3/lecture/8_sympy
+  - file: week_3/lecture/9_dodgeball_sympy_q
