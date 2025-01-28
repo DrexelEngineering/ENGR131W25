@@ -1,6 +1,3 @@
-# Table of Contents
-# Learn more at https://jupyterbook.org/customize/toc.html
-
 format: jb-book
 root: intro
 options:
@@ -171,9 +168,9 @@ parts:
               - file: week_4/lecture/7_continue_break
               - file: week_4/lecture/8_while_loops
               - file: week_4/lecture/9_loops_activity_q
-          # - file: week_4/practicequiz/1_practicequiz_q 
-          # - file: week_4/lab4/Lab_4_Battleship
-          # - file: week_4/attendance/1_week_4_attendance
-          # - file: week_4/homework/homework_4.ipynb
+          - file: week_4/practicequiz/1_practicequiz_q 
+          - file: week_4/lab4/Lab_4_Battleship
+          - file: week_4/attendance/1_week_4_attendance
+          - file: week_4/homework/homework_4.ipynb
       - file: instructions/viewing_grades
       - file: required_software/respondus-lockdown
