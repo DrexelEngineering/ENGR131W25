@@ -67,13 +67,13 @@ listed in chronological order of due date
 
   1. [🏠 Homework The Flight of the Angry Bird 🚀🐦](../jupyterbook/week_3/homework/angry_bird.ipynb) -->
 
-[Reading 4 (1/28) 1:59 pm](../jupyterbook/week_4/readings/index.md)
+<!-- [Reading 4 (1/28) 1:59 pm](../jupyterbook/week_4/readings/index.md)
 
   1. [❓ 🏞️ South Park Adventures 🧢🌲](../jupyterbook/week_3/3_southpark_q.ipynb)
 
   2. [❓ 📓 Mortified: High School Diaries 📔💔](../jupyterbook/week_3/8_mortified_loops_q.ipynb)
   
-  3. [❓ 🌺 50 First Dates 🌴💞](../jupyterbook/week_3/10_while_loops_50_dates_q.ipynb)
+  3. [❓ 🌺 50 First Dates 🌴💞](../jupyterbook/week_3/10_while_loops_50_dates_q.ipynb) -->
 
 - [❓ Practice Quiz: Control Structures for Renewable Energy Applications (before lab - 2/04 - 1:59 pm)](../jupyterbook/week_4/practicequiz/1_practicequiz_q.ipynb)
 
@@ -87,6 +87,12 @@ listed in chronological order of due date
 
   1. [🏠🧙‍♂️📜 Casting Spells and Conditional Loops: Homework That Taps Your Mana!](../jupyterbook/week_4/homework/homework_4.ipynb)
 
+- [Reading 5 (2/04) 1:59 pm](../jupyterbook/week_5/readings/index.md)
+
+  1. [❓ Functions and Flow Control in the Mall](../jupyterbook/week_5/readings/3_flow_control_q.md)
+  2. [❓ Shrinkflation Function Scope](../jupyterbook/week_5/readings/5_shrinkflation_q.md)
+  3. [❓ Norman Doors - How, "Not" to Design Arguments, Parameters, and Return Statements](../jupyterbook/week_5/readings/8_arguments_and_return_q.md)
+  4. [❓ `*args` and `**kwargs` in Brawl Stars](../jupyterbook/week_5/readings/10_args_kwargs_q.md) 
 
 
 ## Office Hours

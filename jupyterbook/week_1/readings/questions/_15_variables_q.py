@@ -34,7 +34,7 @@ class Question3(SelectMany):
             style=MultiSelect,
             question_number=3,
             keys=['q3-1-Rules-for-Naming-Variables', 'q3-2-Multi-Variable-Assignment'],
-            descriptions=['Which of these rules are correct for naming variables in Python?', 'Which of the following illustrate multi-variable assignment in Python?'],
+            descriptions=['Which of these rules are correct for naming variables in Python?** (Select all that apply)', 'Which of the following illustrate multi-variable assignment in Python?** (Select all that apply)'],
             options=[['Variables must start with a letter or an underscore (`_`).', 'Variables can contain spaces.', 'Variable names are case-sensitive.', 'Variables can include numbers but cannot start with them.'], ['`a, b, c = 1, 2, 3`', '`a = b = c = 0`', '`a = 1; b = 2; c = 3`', '`a, b = 1 2`']],
             points=[2.0, 2.0],
             grade=['parts'],

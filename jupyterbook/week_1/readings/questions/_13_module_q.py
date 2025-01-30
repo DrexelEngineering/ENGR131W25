@@ -34,7 +34,7 @@ class Question3(SelectMany):
             style=MultiSelect,
             question_number=3,
             keys=['q3-1-Examples-of-Python-Built-in-Modules', 'q3-2-Statements-about-Python-Modules'],
-            descriptions=["Which of the following are examples of Python's built-in modules?", 'Which of the following statements about Python modules is true?'],
+            descriptions=["Which of the following are examples of Python's built-in modules?** (Select all that apply)", 'Which of the following statements about Python modules is true?** (Select all that apply)'],
             options=[['`os`', '`sys`', '`requests`', '`math`'], ['Modules promote code reuse.', 'Modules can only contain functions.', 'You can import a specific function from a module.', 'Python packages are a collection of modules.']],
             points=[2.0, 2.0],
             grade=['parts'],

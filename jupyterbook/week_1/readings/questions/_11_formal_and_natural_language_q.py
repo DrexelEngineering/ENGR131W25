@@ -45,7 +45,7 @@ class Question3(SelectMany):
             style=MultiSelect,
             question_number=3,
             keys=['q3-1-Features-of-Formal-Languages'],
-            descriptions=['Which of the following are features of formal languages?'],
+            descriptions=['Which of the following are features of formal languages?** (Select all that apply)'],
             options=[['Ambiguity', 'Conciseness', 'Strict syntax rules', 'Reliance on redundancy']],
             points=[2.0],
             grade=['parts'],

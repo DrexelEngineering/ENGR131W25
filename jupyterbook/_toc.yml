@@ -172,5 +172,34 @@ parts:
           - file: week_4/lab4/Lab_4_Battleship
           - file: week_4/attendance/1_week_4_attendance
           - file: week_4/homework/homework_4
+      - file: week_5/index
+        title: "Week 5️⃣"
+        sections:
+          - file: week_5/readings/index
+            title: "📖 Readings"
+            sections:
+              - file: week_5/readings/1_defining_functions
+              - file: week_5/readings/2_flow_control
+              - file: week_5/readings/3_flow_control_q
+              - file: week_5/readings/4_scope
+              - file: week_5/readings/5_shrinkflation_q
+              - file: week_5/readings/6_arguments_and_parameters
+              - file: week_5/readings/7_return_statements
+              - file: week_5/readings/8_arguments_and_return_q
+              - file: week_5/readings/9_args_kwargs
+              - file: week_5/readings/10_args_kwargs_q
+          # - file: week_5/lecture/index
+          #   title: "👩‍🏫 Lecture"
+          #   sections:
+          #     - file: week_5/lecture/1_functions
+          #     - file: week_5/lecture/2_scope
+          #     - file: week_5/lecture/3_lambda
+          #     - file: week_5/lecture/4_map_filter_reduce
+          #     - file: week_5/lecture/5_list_comprehensions
+          #     - file: week_5/lecture/6_functions_activity_q
+          # - file: week_5/practicequiz/1_practicequiz_q
+          # - file: week_5/lab/1_lab_functions
+          # - file: week_5/attendance/1_week_5_attendance
+          # - file: week_5/homework/homework_5
       - file: instructions/viewing_grades
       - file: required_software/respondus-lockdown

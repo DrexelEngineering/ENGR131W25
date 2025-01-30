@@ -34,7 +34,7 @@ class Question2(SelectMany):
             style=MultiSelect,
             question_number=2,
             keys=['q2-1-Categories-of-Python-Operators', 'q2-2-Arithmetic-Operators'],
-            descriptions=['Select all categories of Python operators:', 'Which of the following are arithmetic operators in Python?'],
+            descriptions=['Select all categories of Python operators:** (Select all that apply)', 'Which of the following are arithmetic operators in Python?** (Select all that apply)'],
             options=[['Logical', 'Arithmetic', 'String Formatting', 'Membership'], ['`%`', '`**`', '`!=`', '`+`']],
             points=[4.0, 4.0],
             grade=['parts'],

@@ -4,8 +4,8 @@
 
 [Lecture](lecture/index)
 
-<!-- [practice quiz](practicequiz/1_practicequiz_q.ipynb)
+[practice quiz](practicequiz/1_practicequiz_q.ipynb)
 
-[lab](lab/1_lab_composite.ipynb)
+[lab](lab4/Lab_4_Battleship.ipynb)
 
-[Homework](homework/angry_bird.ipynb) -->
+[Homework](homework/homework_4.ipynb) 
