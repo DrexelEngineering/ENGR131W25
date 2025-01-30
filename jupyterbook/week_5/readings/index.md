@@ -8,4 +8,4 @@
 7. {doc}`🤖 Return Statements: "I’ll Be Back"—Just Like the Terminator, but with Data! <./7_return_statements>`
 8. {doc}`❓ Norman Doors - How, "Not" to Design Arguments, Parameters, and Return Statements <./8_arguments_and_return_q>`
 9. {doc}`🛠️ Args and Kwargs: The Art of Flexible Functions <./9_args_kwargs>`
-10. {doc}`❓ Python Quiz: `*args` and `**kwargs` in Brawl Stars <./10_args_kwargs_q>`
+10. {doc}`❓ *args and **kwargs in Brawl Stars <./10_args_kwargs_q>`
