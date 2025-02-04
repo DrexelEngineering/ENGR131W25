@@ -1,0 +1,15 @@
+format: jb-book
+root: index
+chapters:
+- file: week_5/lecture/index
+  title: Lecture
+  sections:
+  - file: week_5/lecture/1_function_definitions
+  - file: week_5/lecture/2_flow_control_and_modular_functions
+  - file: week_5/lecture/3_returns_errors
+  - file: week_5/lecture/4_toybee_tiles
+  - file: week_5/lecture/5_function_scope
+  - file: week_5/lecture/6_Internet_and_networking
+  - file: week_5/lecture/7_args_kwargs
+  - file: week_5/lecture/8_lambda_function
+  - file: week_5/lecture/10_rube_goldberg

@@ -94,6 +94,7 @@ listed in chronological order of due date
   3. [❓ Norman Doors - How, "Not" to Design Arguments, Parameters, and Return Statements](../jupyterbook/week_5/readings/8_arguments_and_return_q.md)
   4. [❓ `*args` and `**kwargs` in Brawl Stars](../jupyterbook/week_5/readings/10_args_kwargs_q.md) 
 
+- [Practice Quiz Due Before Lab](../jupyterbook/week_5/practicequiz/1_kanye_q.ipynb)
 
 ## Office Hours
 
