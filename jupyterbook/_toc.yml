@@ -191,15 +191,15 @@ parts:
           - file: week_5/lecture/index
             title: "👩‍🏫 Lecture"
             sections:
-                - file: week_5/lecture/1_function_definitions
-                - file: week_5/lecture/2_flow_control_and_modular_functions
-                - file: week_5/lecture/3_returns_errors
-                - file: week_5/lecture/4_toybee_tiles
-                - file: week_5/lecture/5_function_scope
-                - file: week_5/lecture/6_Internet_and_networking
-                - file: week_5/lecture/7_args_kwargs
-                - file: week_5/lecture/8_lambda_function
-                - file: week_5/lecture/10_rube_goldberg
+              - file: week_5/lecture/1_function_definitions
+              - file: week_5/lecture/2_flow_control_and_modular_functions
+              - file: week_5/lecture/3_returns_errors
+              - file: week_5/lecture/4_toybee_tiles
+              - file: week_5/lecture/5_function_scope
+              - file: week_5/lecture/6_Internet_and_networking
+              - file: week_5/lecture/7_args_kwargs
+              - file: week_5/lecture/8_lambda_function
+              - file: week_5/lecture/10_rube_goldberg
           - file: week_5/practicequiz/1_kanye_q
       - file: midterm/index
         title: "Practice Midterm"
@@ -208,3 +208,4 @@ parts:
           - file: midterm/practicemidterm/1_practicemidterm_q
       - file: instructions/viewing_grades
       - file: required_software/respondus-lockdown
+      - file: Superbowl_Squares
