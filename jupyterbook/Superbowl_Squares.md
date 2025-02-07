@@ -1,24 +1,23 @@
 # 🏈 Super Bowl Squares 🏈
 
+![](./hurts.gif)
+
 ## How to Play
 1. Each participant selects one or more squares.
 2. After all squares are filled, numbers (0-9) are randomly assigned to the columns (for one team) and rows (for the other team).
 3. The winner is determined at the end of each quarter based on the last digit of the scores.
 
-Here are some **Super Bowl Squares prize ideas** designed for a **classroom setting**, keeping it fun, engaging, and fair for all participants. 🎉🏈  
-
----
-
 ## **🏆 Super Bowl Squares Prize Structure**
 
 
-| **Winning Condition** | **Suggested Prize** |
+| **Winning Condition** | **Prize** |
 |----------------------|--------------------|
 | **1st Quarter Winner** 🥇 | Choose a topic for a reading/activity assignment |
 | **Halftime Winner** 🎤 | One extra dropped assignment |
 | **3rd Quarter Winner** 🔥 | One extra week dropped assignment from each category |
 | **Final Score Winner** 🎯 | Grand Prize: max(one extra week dropped, or 0.5% points to final grade) |
 
+**Kansas City Chiefs** are the rows, and **Philadelphia Eagles** are the columns.
 
 ## Board 1
 
