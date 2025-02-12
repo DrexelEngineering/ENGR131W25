@@ -201,6 +201,48 @@ parts:
               - file: week_5/lecture/8_lambda_function
               - file: week_5/lecture/10_rube_goldberg
           - file: week_5/practicequiz/1_kanye_q
+      - file: week_6/index
+        title: "Week 6️⃣"
+        sections:
+          - file: week_6/lab/1_PacMan
+      # - file: week_7/index
+      #   title: "Week 7️⃣"
+      #   sections:
+      #     - file: week_7/readings/index
+      #       title: "📖 Readings"
+      #       sections:
+      #         - file: week_7/readings/1_object_oriented_programming
+      #         - file: week_7/readings/2_instances_and_classes
+      #         - file: week_7/readings/3_headis_q
+      #         - file: week_7/readings/4_change_method_of_instances
+      #         - file: week_7/readings/5_change_methods_q
+      #         - file: week_7/readings/6_magic_methods
+      #         - file: week_7/readings/7_magic_methods_horseshoe_q
+      #         - file: week_7/readings/8_using_classes_and_modulues
+      #         - file: week_7/readings/9_inheritance
+      #         - file: week_7/readings/10_inheritance_q
+      #         - file: week_7/readings/11_polymorphism
+      #         - file: week_7/readings/12_pokemon_polymorphism_q
+      #         - file: week_7/readings/13_abstraction_in_python
+      #         - file: week_7/readings/14_toyota_accelerator_q
+      #         - file: week_7/readings/15_multiple_inheritance
+      #         - file: week_7/readings/16_GMT_q
+      # - file: week_4/lecture/index
+      #   title: "👩‍🏫 Lecture"
+      #   sections:
+      #     - file: week_4/lecture/1_booleans
+      #     - file: week_4/lecture/2_if_else
+      #     - file: week_4/lecture/3_if_else_q
+      #     - file: week_4/lecture/4_loops
+      #     - file: week_4/lecture/5_nested_loops
+      #     - file: week_4/lecture/6_IDEs_and_git
+      #     - file: week_4/lecture/7_continue_break
+      #     - file: week_4/lecture/8_while_loops
+      #     - file: week_4/lecture/9_loops_activity_q
+      # - file: week_4/practicequiz/1_practicequiz_q
+      # - file: week_4/lab4/Lab_4_Battleship
+      # - file: week_4/attendance/1_week_4_attendance
+      # - file: week_4/homework/homework_4
       - file: midterm/index
         title: "Practice Midterm"
         sections:
