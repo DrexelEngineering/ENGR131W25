@@ -13,7 +13,7 @@ class Question1(MCQuestion):
             style=MCQ,
             question_number=1,
             keys=['q1-1-multiple-inheritance-definition', 'q1-2-rolex-multiple-parents'],
-            options=[['A class that inherits from more than one parent class.', 'A class that cannot override methods from a parent class.', 'A way to prevent subclasses from inheriting methods.', 'A method for handling time zone calculations.'], ['- `Displaying local time.`', '- `Displaying GMT time.`', '- `Error: Method resolution conflict.`', '- `None`']],
+            options=[['A class that inherits from more than one parent class.', 'A class that cannot override methods from a parent class.', 'A way to prevent subclasses from inheriting methods.', 'A method for handling time zone calculations.'], ['`Displaying local time.`', '`Displaying GMT time.`', '`Error: Method resolution conflict.`', '`None`']],
             descriptions=['Which of the following best describes multiple inheritance in Python?', 'What will the following code output?**\n```python\nclass TimeDisplay:\n    def show_time(self):\n        return "Displaying local time."\n\nclass GMTFunctionality:\n    def show_time(self):\n        return "Displaying GMT time."\n\nclass RolexGMT(TimeDisplay, GMTFunctionality):\n    pass\n\nwatch = RolexGMT()\nprint(watch.show_time())\n```'],
             points=[1.0, 1.0],
         )
