@@ -23,9 +23,9 @@ class Question3(TFQuestion):
             title=f"True or False",
             style=TFStyle,
             question_number=3,
-            keys=['q3-1-diamond-problem', 'q3-2-mro-sequence', 'q3-3-single-inheritance-requirement'],
-            descriptions=["Python's method resolution order (MRO) helps resolve method conflicts in multiple inheritance.", 'In multiple inheritance, Python follows a strict order to check for methods in parent classes.', 'Python does not allow a class to inherit from more than one parent class.'],
-            points=[1.0, 1.0, 1.0],
+            keys=['q3-1-mro-sequence', 'q3-2-single-inheritance-requirement'],
+            descriptions=['In multiple inheritance, Python follows a strict order to check for methods in parent classes.', 'Python does not allow a class to inherit from more than one parent class.'],
+            points=[1.0, 1.0],
         )
 class Question2(SelectMany):
     def __init__(self):
@@ -33,9 +33,9 @@ class Question2(SelectMany):
             title=f"Select All That Apply",
             style=MultiSelect,
             question_number=2,
-            keys=['q2-1-rolex-inheritance-benefits', 'q2-2-rolex-diamond-mix'],
-            descriptions=['What are the benefits of using multiple inheritance in the design of a Rolex GMT class?', 'Which of the following would be valid parent classes for a Rolex GMT watch model using multiple inheritance?'],
-            options=[['Combines functionalities from different classes (e.g., time display and GMT tracking).', 'Allows the class to inherit and override methods from multiple sources.', 'Ensures that only one parent class can contribute methods.', 'Simplifies code reuse by leveraging existing class behaviors.'], ['`class Timekeeping:`', '`class LuxuryBrand:`', '`class BatteryPowered:`', '`class GoldPlated:`']],
-            points=[2.0, 2.0],
+            keys=['q2-1-rolex-inheritance-benefits'],
+            descriptions=['What are the benefits of using multiple inheritance in the design of a Rolex GMT class?'],
+            options=[['Combines functionalities from different classes (e.g., time display and GMT tracking).', 'Allows the class to inherit and override methods from multiple sources.', 'Ensures that only one parent class can contribute methods.', 'Simplifies code reuse by leveraging existing class behaviors.']],
+            points=[2.0],
             grade=['parts'],
         )

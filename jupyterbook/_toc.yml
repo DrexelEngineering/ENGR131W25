@@ -206,28 +206,28 @@ parts:
         sections:
           - file: week_6/lab/1_PacMan
           - file: week_6/attendance/1_week_6_attendance 
-      # - file: week_7/index
-      #   title: "Week 7️⃣"
-      #   sections:
-      #     - file: week_7/readings/index
-      #       title: "📖 Readings"
-      #       sections:
-      #         - file: week_7/readings/1_object_oriented_programming
-      #         - file: week_7/readings/2_instances_and_classes
-      #         - file: week_7/readings/3_headis_q
-      #         - file: week_7/readings/4_change_method_of_instances
-      #         - file: week_7/readings/5_change_methods_q
-      #         - file: week_7/readings/6_magic_methods
-      #         - file: week_7/readings/7_magic_methods_horseshoe_q
-      #         - file: week_7/readings/8_using_classes_and_modulues
-      #         - file: week_7/readings/9_inheritance
-      #         - file: week_7/readings/10_inheritance_q
-      #         - file: week_7/readings/11_polymorphism
-      #         - file: week_7/readings/12_pokemon_polymorphism_q
-      #         - file: week_7/readings/13_abstraction_in_python
-      #         - file: week_7/readings/14_toyota_accelerator_q
-      #         - file: week_7/readings/15_multiple_inheritance
-      #         - file: week_7/readings/16_GMT_q
+      - file: week_7/index
+        title: "Week 7️⃣"
+        sections:
+          - file: week_7/readings/index
+            title: "📖 Readings"
+            sections:
+              - file: week_7/readings/1_object_oriented_programming
+              - file: week_7/readings/2_instances_and_classes
+              - file: week_7/readings/3_headis_q
+              - file: week_7/readings/4_change_method_of_instances
+              - file: week_7/readings/5_change_methods_q
+              - file: week_7/readings/6_magic_methods
+              - file: week_7/readings/7_magic_methods_horseshoe_q
+              - file: week_7/readings/8_using_classes_and_modulues
+              - file: week_7/readings/9_inheritance
+              - file: week_7/readings/10_inheritance_q
+              - file: week_7/readings/11_polymorphism
+              - file: week_7/readings/12_pokemon_polymorphism_q
+              - file: week_7/readings/13_abstraction_in_python
+              - file: week_7/readings/14_toyota_accelerator_q
+              - file: week_7/readings/15_multiple_inheritance
+              - file: week_7/readings/16_GMT_q
       # - file: week_4/lecture/index
       #   title: "👩‍🏫 Lecture"
       #   sections:
