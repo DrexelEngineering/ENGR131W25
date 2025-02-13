@@ -23,9 +23,9 @@ class Question3(TFQuestion):
             title=f"True or False",
             style=TFStyle,
             question_number=3,
-            keys=['q3-1-diamond-problem', 'q3-2-mro-sequence', 'q3-3-single-inheritance-requirement'],
-            descriptions=["Python's method resolution order (MRO) helps resolve method conflicts in multiple inheritance.", 'In multiple inheritance, Python follows a strict order to check for methods in parent classes.', 'Python does not allow a class to inherit from more than one parent class.'],
-            points=[1.0, 1.0, 1.0],
+            keys=['q3-1-mro-sequence', 'q3-2-single-inheritance-requirement'],
+            descriptions=['In multiple inheritance, Python follows a strict order to check for methods in parent classes.', 'Python does not allow a class to inherit from more than one parent class.'],
+            points=[1.0, 1.0],
         )
 class Question2(SelectMany):
     def __init__(self):
