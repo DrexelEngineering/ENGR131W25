@@ -2,99 +2,25 @@
 
 <!-- ## Announcements
 
-**Lab 1: Note all labs for week 1 will be held in the Innovation studio.** -->
+**Lab 1: Note all labs for week 1 will be held in the Innovation studio.** --> 
 
 ## Assignments 
 
-listed in chronological order of due date
+listed in chronological order of due date 
 
-<!-- - [Practice Quiz (before lab - 1/14 - 1:59 pm)](../jupyterbook/week_1/quiz1/1_practice-quiz.ipynb)
+[🏠 🚀 Homework: Build Your Own *Star Wars* Title Scene! 🌌   (2/20 - 1:59pm)](../jupyterbook/week_6/homework/1_star_wars_q.ipynb)
 
-  1. [❓Calculating Total Credits at Drexel! 🎓](../jupyterbook/week_1/quiz1/1_practice-quiz.ipynb) -->
+[🧪 🕹️ Pac-Man Python Challenge: Master Code Modularity & Functions! 🍒👻 (2/20 - 1:59pm)](../jupyterbook/week_6/lab/1_PacMan.ipynb)
 
-<!-- [Quiz Week 1 (before lab - 1/21 - 1:59 pm)](../jupyterbook/week_1/realquiz/1_quiz.ipynb) -->
+[Reading 7 (2/20 1:59 pm)](../jupyterbook/week_7/readings/index.md) 
 
-<!-- - [Lecture Activity 1/21 - 1:59 pm](../jupyterbook/week_1/lecture/index.md)
-
-  1. [❓🚀 Activity: Hello, World! JupyterHub](../jupyterbook/week_1/lecture/6_Activity_1_Using_the_JupyterHub.ipynb)
-  2. [❓🥨 Philly Pretzel Challenge!](../jupyterbook/week_1/lecture/13_Philly_Python_Challenge.ipynb)
-  3. [❓🦴 Hytrl Skull Collection Problem](../jupyterbook/week_2/lecture/4_skull_q.ipynb)
-  4. [❓🩺 Chevalier Jackson Collection Problem](../jupyterbook/week_2/lecture/9_dictionaries_q.ipynb) -->
-
-<!-- - [Homework 1 (1/14) 1:59 pm](../jupyterbook/week_1/homework/1_Homework_1_Python_with_The_Office.ipynb) -->
-
-  <!-- 1. [🏠 🧠 Homework 1 - Python with "The Office"](../jupyterbook/week_1/homework/1_Homework_1_Python_with_The_Office.ipynb) -->
-
-<!-- - [Reading 2 (1/14) 1:59 pm](../jupyterbook/week_2/readings/index.md)
-  1. [❓ Pootie Tang's Wild String Manipulation Adventures](../jupyterbook/week_2/readings/2_strings_q.ipynb)
-  2. [❓ Python Datatypes: The Periodic Table Edition 🧪](../jupyterbook/week_2/readings/4_datatypes_q.ipynb)
-  3. [❓ Commenting](../jupyterbook/week_2/readings/6_comments_q.ipynb)
-  4. [❓ 🔬 Materials Design: Lists and Tuples](../jupyterbook/week_2/readings/8_lists_and_tuples_q.ipynb)
-  5. [❓ Dictionaries and Search Engine Optimization (SEO) 👀](../jupyterbook/week_2/readings/10_dictionaries_q.ipynb)
-  6. [❓ Precision in Python: NIST Laboratory Adventures 🧪](../jupyterbook/week_2/readings/12_precision_q.ipynb) -->
-
-<!-- - [Practice Quiz (before lab - 1/17 - 1:59 pm)](../jupyterbook/week_2/practicequiz/1_practice_quiz_data_types_q.ipynb)
-
-  1. [❓ Python Basics: Data Structures and Types Quiz 🐍](../jupyterbook/week_2/practicequiz/1_practice_quiz_data_types_q.ipynb) -->
-
-<!-- - [Lab Scrabble (1/21) 1:59 pm](../jupyterbook/week_2/lab/1_lab_scrabble.ipynb)
-
-  1. [🧪 🎮 Lab 2: Scrabble Game Calculator](../jupyterbook/week_2/lab/1_lab_scrabble.ipynb) -->
-
-<!-- - [Homework 2 (1/21) 1:59 pm](../jupyterbook/week_2/homework/1_homework.ipynb)
-
-  1. [🏠 Python Programming: Explore the Nutshell Studies 🕵️‍♀️🔍](../jupyterbook/week_2/homework/1_homework.ipynb) -->
-
-<!-- - [Reading 3 (1/21) 1:59 pm](../jupyterbook/week_3/readings/index.md)
-
-  1.[❓💥 Errors and Exceptions ](../jupyterbook/week_3/readings/2_errors_q.ipynb)
-
-  2.[❓🐍 Python Tools for Engineering 🛠️ ](../jupyterbook/week_3/readings/7_python_tools_q.ipynb)
-
-  3.[❓🌊 Lotl of NumPy 🧪🐾 ](../jupyterbook/week_3/readings/9_numpy_q.ipynb)
-
-  4.[❓❌ Eliminate or ✅ Evaluate: Surviving the Sympy 🦑 Challenge!](../jupyterbook/week_3/readings/15_sympy_q.ipynb)
-
-- [❓🧪 Practice Quiz: Errors and Exceptions (before lab - 1/24 - 1:59 pm)](../jupyterbook/week_3/practicequiz/1_practicequiz_q.ipynb)
-
-  1. [❓🧪 Practice Quiz: Errors and Exceptions](../jupyterbook/week_3/practicequiz/1_practicequiz_q.ipynb)
-
-- [🧪 Lab Designing Composites with Optimal Mechanical Properties (1/28) 1:59 pm 🔩⚙️💪](../jupyterbook/week_3/lab/1_lab_composite.ipynb)
-
-  1. [🧪 Lab Designing Composites with Optimal Mechanical Properties 🔩⚙️💪](../jupyterbook/week_3/lab/1_lab_composite.ipynb)
-
-- [🏠 Homework The Flight of the Angry Bird 🚀🐦 (1/28) 1:59 pm](../jupyterbook/week_3/homework/angry_bird.ipynb)
-
-  1. [🏠 Homework The Flight of the Angry Bird 🚀🐦](../jupyterbook/week_3/homework/angry_bird.ipynb) -->
-
-<!-- [Reading 4 (1/28) 1:59 pm](../jupyterbook/week_4/readings/index.md)
-
-  1. [❓ 🏞️ South Park Adventures 🧢🌲](../jupyterbook/week_3/3_southpark_q.ipynb)
-
-  2. [❓ 📓 Mortified: High School Diaries 📔💔](../jupyterbook/week_3/8_mortified_loops_q.ipynb)
-  
-  3. [❓ 🌺 50 First Dates 🌴💞](../jupyterbook/week_3/10_while_loops_50_dates_q.ipynb) -->
-
-- [❓ Practice Quiz: Control Structures for Renewable Energy Applications (before lab - 2/04 - 1:59 pm)](../jupyterbook/week_4/practicequiz/1_practicequiz_q.ipynb)
-
-  1. [❓ Practice Quiz: Control Structures for Renewable Energy Applications ](../jupyterbook/week_4/practicequiz/1_practicequiz_q.ipynb)
-
-- [🎮 LAB 4 : BATTLESHIP 🎮 (2/04 - 1:59 pm)](../jupyterbook/week_4/lab4/Lab_4_Battleship.ipynb)
-
-  1. [🎮 LAB 4 : BATTLESHIP 🎮 ](../jupyterbook/week_4/lab4/Lab_4_Battleship.ipynb)
-
-- [🏠🧙‍♂️📜 Casting Spells and Conditional Loops: Homework That Taps Your Mana! (2/04 - 1:59pm)](../jupyterbook/week_4/homework/homework_4.ipynb)
-
-  1. [🏠🧙‍♂️📜 Casting Spells and Conditional Loops: Homework That Taps Your Mana!](../jupyterbook/week_4/homework/homework_4.ipynb)
-
-- [Reading 5 (2/04) 1:59 pm](../jupyterbook/week_5/readings/index.md)
-
-  1. [❓ Functions and Flow Control in the Mall](../jupyterbook/week_5/readings/3_flow_control_q.md)
-  2. [❓ Shrinkflation Function Scope](../jupyterbook/week_5/readings/5_shrinkflation_q.md)
-  3. [❓ Norman Doors - How, "Not" to Design Arguments, Parameters, and Return Statements](../jupyterbook/week_5/readings/8_arguments_and_return_q.md)
-  4. [❓ `*args` and `**kwargs` in Brawl Stars](../jupyterbook/week_5/readings/10_args_kwargs_q.md) 
-
-- [Practice Quiz Due Before Lab](../jupyterbook/week_5/practicequiz/1_kanye_q.ipynb)
+  1. [❓🏓 Classes and Instances in Headis](../jupyterbook/week_7/readings/3_headis_q.ipynb)
+  2. [❓✍️ Implementing Change Methods in Classes: The Evolution of Helvetica](../jupyterbook/week_7/readings/5_change_methods_q.ipynb)
+  3. [❓🦀 Magic Methods and the "Blue Blood" of Horseshoe Crabs](../jupyterbook/week_7/readings/7_magic_methods_horseshoe_q.ipynb)
+  4. [❓🏈 Inheritance in Python: Building NFL Madden Player Classes](../jupyterbook/week_7/readings/10_inheritance_q.ipynb)
+  5. [❓🔥 Polymorphism in Python: Pokémon Battle System](../jupyterbook/week_7/readings/12_pokemon_polymorphism_q.ipynb)
+  6. [❓🚗 Abstraction in Python: The Single Bit Flip That Killed Toyota's Accelerator](../jupyterbook/week_7/readings/14_toyota_accelerator_q.ipynb)
+  7. [❓⌚ Multiple Inheritance in Python: The Rolex GMT Master](../jupyterbook/week_7/readings/16_GMT_q.ipynb)
 
 ## Office Hours
 

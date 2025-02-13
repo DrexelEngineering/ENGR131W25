@@ -2,6 +2,7 @@
 
 [lab](lab/1_PacMan.ipynb)
 
+[Homework](homework/1_star_wars_q.ipynb)
 
 <!-- [Reading](readings/index)
 
@@ -11,5 +12,5 @@
 
 <!-- [practice quiz](practicequiz/1_practicequiz_q.ipynb)
 
-[Homework](homework/angry_bird.ipynb) -->
+ -->
 

@@ -204,6 +204,7 @@ parts:
       - file: week_6/index
         title: "Week 6️⃣"
         sections:
+          - file: week_6/homework/1_star_wars_q
           - file: week_6/lab/1_PacMan
           - file: week_6/attendance/1_week_6_attendance 
       - file: week_7/index
