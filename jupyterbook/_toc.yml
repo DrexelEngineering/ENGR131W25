@@ -248,8 +248,9 @@ parts:
       - file: midterm/index
         title: "Practice Midterm"
         sections:
+        
           - file: midterm/practicemidterm/topics
           - file: midterm/practicemidterm/1_practicemidterm_q
-      - file: instructions/viewing_grades
+      - file: instructions/grade-reports
       - file: required_software/respondus-lockdown
       - file: Superbowl_Squares
