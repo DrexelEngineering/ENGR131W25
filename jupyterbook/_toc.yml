@@ -229,22 +229,24 @@ parts:
               - file: week_7/readings/14_toyota_accelerator_q
               - file: week_7/readings/15_multiple_inheritance
               - file: week_7/readings/16_GMT_q
-      # - file: week_4/lecture/index
-      #   title: "👩‍🏫 Lecture"
-      #   sections:
-      #     - file: week_4/lecture/1_booleans
-      #     - file: week_4/lecture/2_if_else
-      #     - file: week_4/lecture/3_if_else_q
-      #     - file: week_4/lecture/4_loops
-      #     - file: week_4/lecture/5_nested_loops
-      #     - file: week_4/lecture/6_IDEs_and_git
-      #     - file: week_4/lecture/7_continue_break
-      #     - file: week_4/lecture/8_while_loops
-      #     - file: week_4/lecture/9_loops_activity_q
-      # - file: week_4/practicequiz/1_practicequiz_q
-      # - file: week_4/lab4/Lab_4_Battleship
-      # - file: week_4/attendance/1_week_4_attendance
-      # - file: week_4/homework/homework_4
+          - file: week_7/lecture/index
+            title: "👩‍🏫 Lecture"
+            sections:
+              - file: week_7/lecture/1_overview
+              - file: week_7/lecture/2_instances_and_classes
+              - file: week_7/lecture/3_change_methods
+              - file: week_7/lecture/4_Magic_methods
+              - file: week_7/lecture/5_classes_q
+              - file: week_7/lecture/6_inheritance
+              - file: week_7/lecture/7_polymorphism
+              - file: week_7/lecture/8_k8s
+              - file: week_7/lecture/9_Decorators_and_Abstraction
+              - file: week_7/lecture/10_multiple_inheritance
+              - file: week_7/lecture/11_what_we_do_in_the_shadows
+              - file: week_7/lecture_attendance/1_week_7_lecture_attendance
+          - file: week_7/lab/1_world_of_warcraft
+          - file: week_7/practicequiz/1_practicequiz_q
+          - file: week_7/attendance/1_week_7_attendance
       - file: midterm/index
         title: "Practice Midterm"
         sections:

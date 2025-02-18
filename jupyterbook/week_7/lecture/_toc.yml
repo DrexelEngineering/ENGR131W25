@@ -1,0 +1,17 @@
+format: jb-book
+root: index
+chapters:
+- file: week_7/lecture/index
+  title: Lecture
+  sections:
+  - file: week_7/lecture/1_overview
+  - file: week_7/lecture/2_instances_and_classes
+  - file: week_7/lecture/3_change_methods
+  - file: week_7/lecture/4_Magic_methods
+  - file: week_7/lecture/5_classes_q
+  - file: week_7/lecture/6_inheritance
+  - file: week_7/lecture/7_polymorphism
+  - file: week_7/lecture/8_k8s
+  - file: week_7/lecture/9_Decorators_and_Abstraction
+  - file: week_7/lecture/10_multiple_inheritance
+  - file: week_7/lecture/11_what_we_do_in_the_shadows
