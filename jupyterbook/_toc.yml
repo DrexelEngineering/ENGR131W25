@@ -247,6 +247,46 @@ parts:
           - file: week_7/lab/1_world_of_warcraft
           - file: week_7/practicequiz/1_practicequiz_q
           - file: week_7/attendance/1_week_7_attendance
+      - file: week_8/index
+        title: "Week 8️⃣"
+        sections:
+          - file: week_8/readings/index
+            title: "📖 Readings"
+            sections:
+              - file: week_8/reading/1_principles_of_effective_data_visualization.md
+              # - file: week_7/readings/2_instances_and_classes
+              # - file: week_7/readings/3_headis_q
+              # - file: week_7/readings/4_change_method_of_instances
+              # - file: week_7/readings/5_change_methods_q
+              # - file: week_7/readings/6_magic_methods
+              # - file: week_7/readings/7_magic_methods_horseshoe_q
+              # - file: week_7/readings/8_using_classes_and_modulues
+              # - file: week_7/readings/9_inheritance
+              # - file: week_7/readings/10_inheritance_q
+              # - file: week_7/readings/11_polymorphism
+              # - file: week_7/readings/12_pokemon_polymorphism_q
+              # - file: week_7/readings/13_abstraction_in_python
+              # - file: week_7/readings/14_toyota_accelerator_q
+              # - file: week_7/readings/15_multiple_inheritance
+              # - file: week_7/readings/16_GMT_q
+          # - file: week_7/lecture/index
+          #   title: "👩‍🏫 Lecture"
+          #   sections:
+          #     - file: week_7/lecture/1_overview
+          #     - file: week_7/lecture/2_instances_and_classes
+          #     - file: week_7/lecture/3_change_methods
+          #     - file: week_7/lecture/4_Magic_methods
+          #     - file: week_7/lecture/5_classes_q
+          #     - file: week_7/lecture/6_inheritance
+          #     - file: week_7/lecture/7_polymorphism
+          #     - file: week_7/lecture/8_k8s
+          #     - file: week_7/lecture/9_Decorators_and_Abstraction
+          #     - file: week_7/lecture/10_multiple_inheritance
+          #     - file: week_7/lecture/11_what_we_do_in_the_shadows
+          #     - file: week_7/lecture_attendance/1_week_7_lecture_attendance
+          # - file: week_7/lab/1_world_of_warcraft
+          # - file: week_7/practicequiz/1_practicequiz_q
+          # - file: week_7/attendance/1_week_7_attendance
       - file: midterm/index
         title: "Practice Midterm"
         sections:
