@@ -1,0 +1,13 @@
+format: jb-book
+root: index
+chapters:
+- file: week_8/reading/index
+  title: Reading
+  sections:
+  - file: week_8/reading/1_principles_of_effective_data_visualization
+  - file: week_8/reading/2_graphical_excellence_questions_q
+  - file: week_8/reading/3_pandas
+  - file: week_8/reading/4_seaborn
+  - file: week_8/reading/5_seaborn_q
+  - file: week_8/reading/6_pandas_visualization
+  - file: week_8/reading/7_zillow_q

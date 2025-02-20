@@ -1,4 +1,4 @@
-# Week 7: Object-Oriented Programming
+# Week 8: Data Visualization
 
 [Reading](readings/index)
 
