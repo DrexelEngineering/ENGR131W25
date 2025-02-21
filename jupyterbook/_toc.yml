@@ -254,7 +254,7 @@ parts:
             title: "📖 Readings"
             sections:
               - file: week_8/readings/1_principles_of_effective_data_visualization.md
-              - file: week_8/readings/2_graphical_excellence_questions_q
+              - file: week_8/readings/2_graphical_excellence_q.ipynb
               - file: week_8/readings/3_pandas
               - file: week_8/readings/4_seaborn
               - file: week_8/readings/5_seaborn_q
