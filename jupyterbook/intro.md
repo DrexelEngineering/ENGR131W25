@@ -8,19 +8,15 @@
 
 listed in chronological order of due date 
 
-[🏠 🚀 Homework: Build Your Own *Star Wars* Title Scene! 🌌   (2/20 - 1:59pm)](../jupyterbook/week_6/homework/1_star_wars_q.ipynb)
+Note: This is a combined homework and lab\
+[🏠🧪 Welcome to Azeroth! 🌍⚔️✨   (2/27 1:59 pm) ](../week_7/lab/1_world_of_warcraft.ipynb)
 
-[🧪 🕹️ Pac-Man Python Challenge: Master Code Modularity & Functions! 🍒👻 (2/20 - 1:59pm)](../jupyterbook/week_6/lab/1_PacMan.ipynb)
+[Reading 8 (2/20 1:59 pm)](../jupyterbook/week_7/readings/index.md) 
 
-[Reading 7 (2/20 1:59 pm)](../jupyterbook/week_7/readings/index.md) 
+1. [❓ Graphical Excellence Questions](../jupyterbook/week_7/readings/2_graphical_excellence_q.ipynb)
+2. [❓ Seaborn Graphing Made Simple](../jupyterbook/week_7/readings/5_seaborn_q.ipynb)
+3. [❓ Welcome to the wild world of Zillow Gone Wild! 🏡✨](../jupyterbook/week_7/readings/7_zillow_q.ipynb)
 
-  1. [❓🏓 Classes and Instances in Headis](../jupyterbook/week_7/readings/3_headis_q.ipynb)
-  2. [❓✍️ Implementing Change Methods in Classes: The Evolution of Helvetica](../jupyterbook/week_7/readings/5_change_methods_q.ipynb)
-  3. [❓🦀 Magic Methods and the "Blue Blood" of Horseshoe Crabs](../jupyterbook/week_7/readings/7_magic_methods_horseshoe_q.ipynb)
-  4. [❓🏈 Inheritance in Python: Building NFL Madden Player Classes](../jupyterbook/week_7/readings/10_inheritance_q.ipynb)
-  5. [❓🔥 Polymorphism in Python: Pokémon Battle System](../jupyterbook/week_7/readings/12_pokemon_polymorphism_q.ipynb)
-  6. [❓🚗 Abstraction in Python: The Single Bit Flip That Killed Toyota's Accelerator](../jupyterbook/week_7/readings/14_toyota_accelerator_q.ipynb)
-  7. [❓⌚ Multiple Inheritance in Python: The Rolex GMT Master](../jupyterbook/week_7/readings/16_GMT_q.ipynb)
 
 ## Office Hours
 
