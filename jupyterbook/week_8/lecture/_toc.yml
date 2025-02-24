@@ -1,0 +1,15 @@
+format: jb-book
+root: index
+chapters:
+- file: week_8/lecture/index
+  title: Lecture
+  sections:
+  - file: week_8/lecture/1_Introduction_Data_Vis
+  - file: week_8/lecture/2_refining_plot_q
+  - file: week_8/lecture/3_Colormaps
+  - file: week_8/lecture/4_monte_in_circle
+  - file: week_8/lecture/5_monte_math
+  - file: week_8/lecture/6_Curve_Fitting_q
+  - file: week_8/lecture/7_Importance_of_Data_Analysis
+  - file: week_8/lecture/8_flight_data
+  - file: week_8/lecture/9_Cool_visualizations
