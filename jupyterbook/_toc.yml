@@ -260,7 +260,7 @@ parts:
               - file: week_8/readings/5_seaborn_q
               - file: week_8/readings/6_pandas_visualization
               - file: week_8/readings/7_zillow_q 
-          - file: week_8/lecture/index
+          - file: week_8/lecture/index 
             title: "👩‍🏫 Lecture"
             sections:
               - file: week_8/lecture/1_Introduction_Data_Vis
