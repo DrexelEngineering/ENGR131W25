@@ -260,21 +260,22 @@ parts:
               - file: week_8/readings/5_seaborn_q
               - file: week_8/readings/6_pandas_visualization
               - file: week_8/readings/7_zillow_q 
-          - file: week_8/lecture/index 
+          - file: week_8/lecture/index
             title: "👩‍🏫 Lecture"
             sections:
               - file: week_8/lecture/1_Introduction_Data_Vis
               - file: week_8/lecture/2_refining_plot_q
               - file: week_8/lecture/3_Colormaps
               - file: week_8/lecture/4_monte_in_circle
-              - file: week_8/lecture/5_monte_math 
+              - file: week_8/lecture/5_monte_math
               - file: week_8/lecture/6_Curve_Fitting_q
               - file: week_8/lecture/7_Importance_of_Data_Analysis
               - file: week_8/lecture/8_flight_data
+              - file: week_8/lectureattendance/1_attendance
               - file: week_8/lecture/9_Cool_visualizations
-          # - file: week_7/lab/1_world_of_warcraft
-          # - file: week_7/practicequiz/1_practicequiz_q
-          # - file: week_7/attendance/1_week_7_attendance
+          - file: week_8/lab/1_lab_building_bridge
+          - file: week_8/practicequiz/1_practicequiz_q
+          - file: week_8/quiz/1_quiz_q
       - file: midterm/index
         title: "Practice Midterm"
         sections:

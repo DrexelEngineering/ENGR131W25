@@ -1,4 +1,4 @@
-# Welcome to ENGR 131!
+# Welcome to ENGR 131! 
 
 <!-- ## Announcements
 
