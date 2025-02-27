@@ -274,6 +274,8 @@ parts:
               - file: week_8/lectureattendance/1_attendance
               - file: week_8/lecture/9_Cool_visualizations
           - file: week_8/lab/1_lab_building_bridge
+          - file: week_8/attendance/1_attendance 
+          - file: week_8/homework/1_homework_q
           - file: week_8/practicequiz/1_practicequiz_q
           - file: week_8/quiz/1_quiz_q
       - file: midterm/index
