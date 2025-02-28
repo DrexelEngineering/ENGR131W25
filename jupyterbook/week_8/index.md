@@ -1,4 +1,4 @@
-# Week 8: Data Visualization
+# Week 9: Image Processing and Machine Learning
 
 [Reading](readings/index)
 

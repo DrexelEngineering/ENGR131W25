@@ -1,0 +1,15 @@
+format: jb-book
+root: index
+chapters:
+- file: week_9/readings/index
+  title: Readings
+  sections:
+  - file: week_9/readings/1_scikit_image_getting_started
+  - file: week_9/readings/2_scikit_image_numpy
+  - file: week_9/readings/3_scikit_image_segmentation
+  - file: week_9/readings/4_scikit_image_q
+  - file: week_9/readings/5_scikit_learn
+  - file: week_9/readings/6_scikit_learn_supervised
+  - file: week_9/readings/7_scikit_learn_overfitting
+  - file: week_9/readings/8_sckit_learn_unsupervised
+  - file: week_9/readings/9_scikit_learn_q

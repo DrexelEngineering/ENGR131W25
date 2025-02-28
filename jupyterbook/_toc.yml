@@ -278,6 +278,39 @@ parts:
           - file: week_8/homework/1_homework_q
           - file: week_8/practicequiz/1_practicequiz_q
           - file: week_8/quiz/1_quiz_q
+      - file: week_9/index
+        title: "Week 9️⃣"
+        sections:
+          - file: week_9/readings/index
+            title: "📖 Readings"
+            sections:
+              - file: week_9/readings/1_scikit_image_getting_started
+              - file: week_9/readings/2_scikit_image_numpy
+              - file: week_9/readings/3_scikit_image_segmentation
+              - file: week_9/readings/4_scikit_image_q
+              - file: week_9/readings/5_scikit_learn
+              - file: week_9/readings/6_scikit_learn_supervised
+              - file: week_9/readings/7_scikit_learn_overfitting
+              - file: week_9/readings/8_sckit_learn_unsupervised
+              - file: week_9/readings/9_scikit_learn_q
+          # - file: week_8/lecture/index
+          #   title: "👩‍🏫 Lecture"
+          #   sections:
+          #     - file: week_8/lecture/1_Introduction_Data_Vis
+          #     - file: week_8/lecture/2_refining_plot_q
+          #     - file: week_8/lecture/3_Colormaps
+          #     - file: week_8/lecture/4_monte_in_circle
+          #     - file: week_8/lecture/5_monte_math
+          #     - file: week_8/lecture/6_Curve_Fitting_q
+          #     - file: week_8/lecture/7_Importance_of_Data_Analysis
+          #     - file: week_8/lecture/8_flight_data
+          #     - file: week_8/lectureattendance/1_attendance
+          #     - file: week_8/lecture/9_Cool_visualizations
+          # - file: week_8/lab/1_lab_building_bridge
+          # - file: week_8/attendance/1_attendance 
+          # - file: week_8/homework/1_homework_q
+          # - file: week_8/practicequiz/1_practicequiz_q
+          # - file: week_8/quiz/1_quiz_q
       - file: midterm/index
         title: "Practice Midterm"
         sections:
