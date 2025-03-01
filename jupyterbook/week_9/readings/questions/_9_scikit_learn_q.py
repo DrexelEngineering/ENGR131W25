@@ -6,13 +6,13 @@ import panel as pn
 
 pn.extension()
 
-class Question1(MCQuestion):
+class Question2(MCQuestion):
     def __init__(self):
         super().__init__(
             title=f"Select the Best Answer",
             style=MCQ,
-            question_number=1,
-            keys=['q1-1-train-test-split', 'q1-2-standard-scaler', 'q1-3-one-hot-encoder', 'q1-4-linear-regression', 'q1-5-random-forest', 'q1-6-svc-default-kernel', 'q1-7-model-evaluation', 'q1-8-pipeline-usage'],
+            question_number=2,
+            keys=['q2-1-train-test-split', 'q2-2-standard-scaler', 'q2-3-one-hot-encoder', 'q2-4-linear-regression', 'q2-5-random-forest', 'q2-6-svc-default-kernel', 'q2-7-model-evaluation', 'q2-8-pipeline-usage'],
             options=[['`sklearn.model_selection`', '`sklearn.metrics`', '`sklearn.preprocessing`', '`sklearn.decomposition`'], ['`MinMaxScaler`', '`StandardScaler`', '`Normalizer`', '`Binarizer`'], ['`LabelEncoder`', '`OneHotEncoder`', '`OrdinalEncoder`', '`FeatureHasher`'], ['`sklearn.svm`', '`sklearn.linear_model`', '`sklearn.tree`', '`sklearn.ensemble`'], ['Bagging', 'Boosting', 'Stacking', 'Voting'], ['Linear', 'Polynomial', 'RBF', 'Sigmoid'], ['`confusion_matrix`', '`train_test_split`', '`fit_transform`', '`PCA`'], ['To chain multiple transformers and estimators.', 'To visualize decision trees.', 'To import datasets.', 'To calculate feature importance.']],
             descriptions=['Which module contains the `train_test_split` function?', 'Which of the following scales features to zero mean and unit variance?', 'Which class is used for one-hot encoding categorical variables?', 'Which module contains `LinearRegression`?', 'Which ensemble method is used in Random Forest?', 'What is the default kernel for `SVC` in scikit-learn?', 'Which of the following is used to evaluate model performance?', 'What is the primary purpose of using pipelines in scikit-learn?'],
             points=[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0],
