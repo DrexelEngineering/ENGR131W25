@@ -27,13 +27,13 @@ class Question1(TFQuestion):
             descriptions=['The correct way to import scikit-learn is: `import scikit-learn as skl`.', '`train_test_split` is used to split data into training and testing sets.', '`StandardScaler` scales features by subtracting the mean and scaling to unit variance.', 'Scikit-learn has built-in methods for feature selection.', 'K-Nearest Neighbors is a supervised learning algorithm in scikit-learn.', 'Random Forest in scikit-learn can use bagging as an ensemble method.', "The default kernel for `SVC` in scikit-learn is linear - if you don't know this you can look at the docstring for `SVC` to find out.", '`cross_val_score` performs cross-validation on a model in scikit-learn.', 'Pipelines in scikit-learn are used to chain multiple estimators and transformers.'],
             points=[1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0],
         )
-class Question2(SelectMany):
+class Question3(SelectMany):
     def __init__(self):
         super().__init__(
             title=f"Select All That Apply",
             style=MultiSelect,
-            question_number=2,
-            keys=['q2-1-supervised-learning', 'q2-2-feature-scaling', 'q2-3-model-selection', 'q2-4-dimensionality-reduction'],
+            question_number=3,
+            keys=['q3-1-supervised-learning', 'q3-2-feature-scaling', 'q3-3-model-selection', 'q3-4-dimensionality-reduction'],
             descriptions=['Which of the following are supervised learning algorithms in scikit-learn?', 'Which of the following are used for feature scaling in scikit-learn?', 'Which modules are used for model selection and evaluation?', 'Which techniques are used for dimensionality reduction in scikit-learn?'],
             options=[['`LinearRegression`', '`KNeighborsClassifier`', '`PCA`', '`RandomForestClassifier`'], ['`MinMaxScaler`', '`StandardScaler`', '`Normalizer`', '`LabelEncoder`'], ['`sklearn.model_selection`', '`sklearn.metrics`', '`sklearn.preprocessing`', '`sklearn.datasets`'], ['`PCA`', '`TruncatedSVD`', '`LinearDiscriminantAnalysis`', '`RandomForestClassifier`']],
             points=[2.0, 2.0, 2.0, 2.0],
