@@ -293,24 +293,22 @@ parts:
               - file: week_9/readings/7_scikit_learn_overfitting
               - file: week_9/readings/8_sckit_learn_unsupervised
               - file: week_9/readings/9_scikit_learn_q
-          # - file: week_8/lecture/index
-          #   title: "👩‍🏫 Lecture"
-          #   sections:
-          #     - file: week_8/lecture/1_Introduction_Data_Vis
-          #     - file: week_8/lecture/2_refining_plot_q
-          #     - file: week_8/lecture/3_Colormaps
-          #     - file: week_8/lecture/4_monte_in_circle
-          #     - file: week_8/lecture/5_monte_math
-          #     - file: week_8/lecture/6_Curve_Fitting_q
-          #     - file: week_8/lecture/7_Importance_of_Data_Analysis
-          #     - file: week_8/lecture/8_flight_data
-          #     - file: week_8/lectureattendance/1_attendance
-          #     - file: week_8/lecture/9_Cool_visualizations
-          # - file: week_8/lab/1_lab_building_bridge
-          # - file: week_8/attendance/1_attendance 
-          # - file: week_8/homework/1_homework_q
-          # - file: week_8/practicequiz/1_practicequiz_q
-          # - file: week_8/quiz/1_quiz_q
+          - file: week_9/lecture/index
+            title: "👩‍🏫 Lecture"
+            sections:
+              - file: week_9/lecture/1_what_is_an_image
+              - file: week_9/lecture/2_image_filtering
+              - file: week_9/lecture/3_scikit_image
+              - file: week_9/lecture/4_clashroyal
+              - file: week_9/lecture/5_introduction_to_ML
+              - file: week_9/lecture/6_visual_introduction_to_ml
+              - file: week_9/lecture/7_overfitting
+              - file: week_9/lecture/8_supervised_learning
+              - file: week_9/lecture/9_unsupervised_learning
+              - file: week_9/lecture/10_unsupervised_learning_PCA
+          - file: week_9/practicequiz/ML_practice_q.ipynb
+          - file: week_9/attendance/1_attendance 
+          - file: week_9/lab/1_angry_birds_image.ipynb
       - file: midterm/index
         title: "Practice Midterm"
         sections:

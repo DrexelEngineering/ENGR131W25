@@ -38,7 +38,7 @@ repository:
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
-  # announcement: "Midterm Exam: Tuesday, February 11th, 2025, During Normally Scheduled Class Time @ Mitchell Auditorium"
+  announcement: "Final Exam: Monday, March 17th, 2025, 1-3 PM @ Main Auditorium"
   use_issues_button: true
   use_repository_button: true
   static_path:

@@ -2,16 +2,12 @@
 
 [Reading](readings/index)
 
-<!-- [lab](lab/1_PacMan.ipynb) -->
+[Lecture](lecture/index)
 
+[practice quiz](practicequiz/1_practicequiz_q.ipynb)
 
-<!-- 
+[lab](lab/1_lab_building_bridge.ipynb)
 
-[Lecture](lecture/index) -->
+[homework](homework/1_homework_q.ipynb)
 
-<!-- [Practice Quiz](practicequiz/1_kanye_q) -->
-
-<!-- [practice quiz](practicequiz/1_practicequiz_q.ipynb)
-
-[Homework](homework/angry_bird.ipynb) -->
 

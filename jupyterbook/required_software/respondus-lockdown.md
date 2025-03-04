@@ -1,6 +1,6 @@
 # 🚀 LockDown Browser Requirement 🖥️
 
-This course **requires** the use of **LockDown Browser** for online exams. Don't worry, it's easy to get started! Here's everything you need to know:
+This course **requires** the use of **LockDown Browser** for online exams. Don't worry, it's easy to get started! Here's everything you need to know: 
 
 ## 🎬 **Watch This Video**
 Get a quick understanding of LockDown Browser by watching this short video:  

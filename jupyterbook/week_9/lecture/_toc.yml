@@ -1,0 +1,16 @@
+format: jb-book
+root: index
+chapters:
+- file: week_9/lecture/index
+  title: Lecture
+  sections:
+  - file: week_9/lecture/1_what_is_an_image
+  - file: week_9/lecture/2_image_filtering
+  - file: week_9/lecture/3_scikit_image
+  - file: week_9/lecture/4_clashroyal
+  - file: week_9/lecture/5_introduction_to_ML
+  - file: week_9/lecture/6_visual_introduction_to_ml
+  - file: week_9/lecture/7_overfitting
+  - file: week_9/lecture/8_supervised_learning
+  - file: week_9/lecture/9_unsupervised_learning
+  - file: week_9/lecture/10_unsupervised_learning_PCA
