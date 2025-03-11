@@ -322,6 +322,7 @@ parts:
               - file: week_10/lecture/10_cifar10_tutorial
               - file: week_10/lecture/11_seq2seq_translation_tutorial
               - file: week_10/lecture/12_attendance
+            - file: week_10/attendance/1_attendance
       - file: midterm/index
         title: "Practice Midterm"
         sections:
