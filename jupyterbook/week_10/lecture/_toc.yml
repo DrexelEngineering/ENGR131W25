@@ -1,0 +1,18 @@
+format: jb-book
+root: index
+chapters:
+- file: week_10/lecture/index
+  title: Lecture
+  sections:
+  - file: week_10/lecture/1_local_python_installation
+  - file: week_10/lecture/2_nrp_jhub
+  - file: week_10/lecture/3_visual_introduction_to_ml
+  - file: week_10/lecture/4_overfitting
+  - file: week_10/lecture/5_supervised_learning
+  - file: week_10/lecture/6_unsupervised_learning
+  - file: week_10/lecture/7_unsupervised_learning_PCA
+  - file: week_10/lecture/8_quickstart_tutorial
+  - file: week_10/lecture/9_buildmodel_tutorial
+  - file: week_10/lecture/10_cifar10_tutorial
+  - file: week_10/lecture/11_seq2seq_translation_tutorial
+  - file: week_10/lecture/12_attendance

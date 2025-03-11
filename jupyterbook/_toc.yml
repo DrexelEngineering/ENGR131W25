@@ -301,14 +301,27 @@ parts:
               - file: week_9/lecture/3_scikit_image
               - file: week_9/lecture/4_clashroyal
               - file: week_9/lecture/5_introduction_to_ML
-              - file: week_9/lecture/6_visual_introduction_to_ml
-              - file: week_9/lecture/7_overfitting
-              - file: week_9/lecture/8_supervised_learning
-              - file: week_9/lecture/9_unsupervised_learning
-              - file: week_9/lecture/10_unsupervised_learning_PCA
           - file: week_9/practicequiz/ML_practice_q.ipynb
           - file: week_9/attendance/1_attendance 
           - file: week_9/lab/1_angry_birds_image.ipynb
+      - file: week_10/index
+        title: "Week 🔟"
+        sections:
+          - file: week_10/lecture/index
+            title: "👩‍🏫 Lecture"
+            sections:
+              - file: week_10/lecture/1_local_python_installation
+              - file: week_10/lecture/2_nrp_jhub
+              - file: week_10/lecture/3_visual_introduction_to_ml
+              - file: week_10/lecture/4_overfitting
+              - file: week_10/lecture/5_supervised_learning
+              - file: week_10/lecture/6_unsupervised_learning
+              - file: week_10/lecture/7_unsupervised_learning_PCA
+              - file: week_10/lecture/8_quickstart_tutorial
+              - file: week_10/lecture/9_buildmodel_tutorial
+              - file: week_10/lecture/10_cifar10_tutorial
+              - file: week_10/lecture/11_seq2seq_translation_tutorial
+              - file: week_10/lecture/12_attendance
       - file: midterm/index
         title: "Practice Midterm"
         sections:
@@ -317,3 +330,5 @@ parts:
       - file: instructions/grade-reports
       - file: required_software/respondus-lockdown
       - file: Superbowl_Squares
+
+              

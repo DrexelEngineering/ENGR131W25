@@ -24,3 +24,7 @@ pandas
 otter-grader
 
 scikit-image
+
+torch
+
+torchvision
