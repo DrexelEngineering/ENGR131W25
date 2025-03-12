@@ -8,14 +8,16 @@
 
 listed in chronological order of due date 
 
-Note: This is a combined homework and lab\
+[Practice Final](../practicefinal/1_practicefinal_q.ipynb)
+
+<!-- Note: This is a combined homework and lab\
 [🏠🧪 Welcome to Azeroth! 🌍⚔️✨   (2/27 1:59 pm) ](../week_7/lab/1_world_of_warcraft.ipynb)
 
 [Reading 8 (2/20 1:59 pm)](../jupyterbook/week_7/readings/index.md) 
 
 1. [❓ Graphical Excellence Questions](../jupyterbook/week_7/readings/2_graphical_excellence_q.ipynb)
 2. [❓ Seaborn Graphing Made Simple](../jupyterbook/week_7/readings/5_seaborn_q.ipynb)
-3. [❓ Welcome to the wild world of Zillow Gone Wild! 🏡✨](../jupyterbook/week_7/readings/7_zillow_q.ipynb)
+3. [❓ Welcome to the wild world of Zillow Gone Wild! 🏡✨](../jupyterbook/week_7/readings/7_zillow_q.ipynb) -->
 
 
 ## Office Hours
